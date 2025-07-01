@@ -26,22 +26,6 @@ const chartConfig = {
   },
 };
 
-// 모의 API 데이터 (실제 API 연결 시 교체)
-const mockApiData = [
-  { 날짜: "2024-01-15", 시간대: "09:00", 포인트: 45 },
-  { 날짜: "2024-01-15", 시간대: "10:00", 포인트: 62 },
-  { 날짜: "2024-01-15", 시간대: "11:00", 포인트: 78 },
-  { 날짜: "2024-01-15", 시간대: "12:00", 포인트: 95 },
-  { 날짜: "2024-01-15", 시간대: "13:00", 포인트: 88 },
-  { 날짜: "2024-01-15", 시간대: "14:00", 포인트: 72 },
-  { 날짜: "2024-01-15", 시간대: "15:00", 포인트: 56 },
-  { 날짜: "2024-01-15", 시간대: "16:00", 포인트: 43 },
-  { 날짜: "2024-01-15", 시간대: "17:00", 포인트: 67 },
-  { 날짜: "2024-01-15", 시간대: "18:00", 포인트: 89 },
-  { 날짜: "2024-01-15", 시간대: "19:00", 포인트: 92 },
-  { 날짜: "2024-01-15", 시간대: "20:00", 포인트: 76 },
-];
-
 const App = () => {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -54,13 +38,14 @@ const App = () => {
         setLoading(true);
 
         // 실제 API 호출 예시:
-        // const response = await fetch('/api/congestion-data')
-        // const apiData = await response.json()
-        // setData(apiData)
+        const response = await fetch(
+          process.env.REACT_APP_BACKEND_API_URL + "/api/point-metrics"
+        );
+        const apiData = await response.json();
+        setData(apiData);
 
         // 현재는 모의 데이터 사용
-        await new Promise((resolve) => setTimeout(resolve, 1000)); // 로딩 시뮬레이션
-        setData(mockApiData);
+        // setData(mockApiData);
       } catch (error) {
         console.error("데이터 가져오기 실패:", error);
       } finally {
@@ -70,6 +55,8 @@ const App = () => {
 
     fetchData();
   }, []);
+
+  console.log(data);
 
   // 혼잡도 레벨 계산
   const getCongestionLevel = (point) => {
