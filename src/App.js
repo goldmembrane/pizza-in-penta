@@ -8,13 +8,9 @@ import {
   CardHeader,
   CardTitle,
 } from "./components/ui/card";
-import {
-  ChartContainer,
-  ChartTooltip,
-  ChartTooltipContent,
-} from "./components/ui/chart";
+import { ChartContainer } from "./components/ui/chart";
 import { Bar, BarChart, Line, LineChart, XAxis, YAxis } from "recharts";
-import { Pizza, TrendingUp, Clock, Calendar } from "lucide-react";
+import { Pizza } from "lucide-react";
 import { Button } from "./components/ui/button";
 import "./App.css";
 
@@ -42,7 +38,11 @@ const App = () => {
           process.env.REACT_APP_BACKEND_API_URL + "/api/point-metrics"
         );
         const apiData = await response.json();
-        setData(apiData);
+
+        const sortedApiData = apiData.sort(
+          (a, b) => new Date(a.date) - new Date(b.date)
+        );
+        setData(sortedApiData);
 
         // 현재는 모의 데이터 사용
         // setData(mockApiData);
@@ -57,24 +57,6 @@ const App = () => {
   }, []);
 
   console.log(data);
-
-  // 혼잡도 레벨 계산
-  const getCongestionLevel = (point) => {
-    if (point >= 80) return { level: "매우 혼잡", color: "very-busy" };
-    if (point >= 60) return { level: "혼잡", color: "busy" };
-    if (point >= 40) return { level: "보통", color: "normal" };
-    return { level: "여유", color: "free" };
-  };
-
-  // 평균 포인트 계산
-  const averagePoint =
-    data.length > 0
-      ? Math.round(
-          data.reduce((sum, item) => sum + item.포인트, 0) / data.length
-        )
-      : 0;
-
-  const currentCongestion = getCongestionLevel(averagePoint);
 
   if (loading) {
     return (
@@ -99,66 +81,14 @@ const App = () => {
           <p className="header-subtitle">실시간 혼잡도 모니터링 대시보드</p>
         </div>
 
-        {/* 현재 상태 카드 */}
-        <div className="stats-grid">
-          <Card>
-            <CardHeader className="card-header-small">
-              <CardTitle className="card-title-small">현재 혼잡도</CardTitle>
-              <TrendingUp className="card-icon" />
-            </CardHeader>
-            <CardContent>
-              <div className="stat-value">{averagePoint}점</div>
-              <p className={`stat-label ${currentCongestion.color}`}>
-                {currentCongestion.level}
-              </p>
-            </CardContent>
-          </Card>
-
-          <Card>
-            <CardHeader className="card-header-small">
-              <CardTitle className="card-title-small">최고 혼잡 시간</CardTitle>
-              <Clock className="card-icon" />
-            </CardHeader>
-            <CardContent>
-              <div className="stat-value">
-                {data.length > 0
-                  ? data.reduce((max, item) =>
-                      item.포인트 > max.포인트 ? item : max
-                    ).시간대
-                  : "--:--"}
-              </div>
-              <p className="stat-sublabel">
-                {data.length > 0
-                  ? `${Math.max(...data.map((d) => d.포인트))}점`
-                  : "데이터 없음"}
-              </p>
-            </CardContent>
-          </Card>
-
-          <Card>
-            <CardHeader className="card-header-small">
-              <CardTitle className="card-title-small">
-                데이터 업데이트
-              </CardTitle>
-              <Calendar className="card-icon" />
-            </CardHeader>
-            <CardContent>
-              <div className="stat-value">실시간</div>
-              <p className="stat-sublabel">
-                {new Date().toLocaleString("ko-KR")}
-              </p>
-            </CardContent>
-          </Card>
-        </div>
-
         {/* 메인 차트 */}
         <Card className="chart-card">
           <CardHeader>
             <div className="chart-header">
               <div className="chart-title-section">
-                <CardTitle className="chart-title">시간대별 혼잡도</CardTitle>
+                <CardTitle className="chart-title">날짜별 혼잡도</CardTitle>
                 <CardDescription>
-                  펜타곤 주변 피자 매장의 시간대별 혼잡도 포인트
+                  펜타곤 주변 피자 매장의 날짜별 혼잡도 포인트
                 </CardDescription>
               </div>
               <div className="chart-buttons">
@@ -186,86 +116,37 @@ const App = () => {
                   data={data}
                   margin={{ top: 20, right: 30, left: 20, bottom: 5 }}
                 >
-                  <XAxis dataKey="시간대" tickLine={false} axisLine={false} />
-                  <YAxis tickLine={false} axisLine={false} />
-                  <Bar dataKey="포인트" fill="#ea580c" radius={[4, 4, 0, 0]} />
-                  <ChartTooltip
-                    content={
-                      <ChartTooltipContent
-                        formatter={(value, name) => (
-                          <div className="tooltip-content">
-                            <div className="tooltip-indicator" />
-                            <span className="tooltip-value">{value}점</span>
-                            <span className="tooltip-level">
-                              ({getCongestionLevel(value).level})
-                            </span>
-                          </div>
-                        )}
-                        labelFormatter={(label) => `시간: ${label}`}
-                      />
-                    }
+                  <XAxis dataKey="date" tickLine={false} axisLine={false} />
+                  <YAxis
+                    tickLine={false}
+                    axisLine={false}
+                    domain={[0, 36000]}
+                    ticks={[0]}
                   />
+                  <Bar dataKey="point" fill="#ea580c" radius={[4, 4, 0, 0]} />
                 </BarChart>
               ) : (
                 <LineChart
                   data={data}
                   margin={{ top: 20, right: 30, left: 20, bottom: 5 }}
                 >
-                  <XAxis dataKey="시간대" tickLine={false} axisLine={false} />
-                  <YAxis tickLine={false} axisLine={false} />
+                  <XAxis dataKey="date" tickLine={false} axisLine={false} />
+                  <YAxis
+                    tickLine={false}
+                    axisLine={false}
+                    domain={[0, 36000]}
+                    ticks={[0]}
+                  />
                   <Line
                     type="monotone"
-                    dataKey="포인트"
+                    dataKey="point"
                     stroke="#ea580c"
                     strokeWidth={3}
                     dot={{ fill: "#ea580c", strokeWidth: 2, r: 4 }}
                   />
-                  <ChartTooltip
-                    content={
-                      <ChartTooltipContent
-                        formatter={(value, name) => (
-                          <div className="tooltip-content">
-                            <div className="tooltip-indicator" />
-                            <span className="tooltip-value">{value}점</span>
-                            <span className="tooltip-level">
-                              ({getCongestionLevel(value).level})
-                            </span>
-                          </div>
-                        )}
-                        labelFormatter={(label) => `시간: ${label}`}
-                      />
-                    }
-                  />
                 </LineChart>
               )}
             </ChartContainer>
-          </CardContent>
-        </Card>
-
-        {/* 혼잡도 범례 */}
-        <Card>
-          <CardHeader>
-            <CardTitle>혼잡도 기준</CardTitle>
-          </CardHeader>
-          <CardContent>
-            <div className="legend-grid">
-              <div className="legend-item">
-                <div className="legend-dot free-dot" />
-                <span className="legend-text">여유 (0-39점)</span>
-              </div>
-              <div className="legend-item">
-                <div className="legend-dot normal-dot" />
-                <span className="legend-text">보통 (40-59점)</span>
-              </div>
-              <div className="legend-item">
-                <div className="legend-dot busy-dot" />
-                <span className="legend-text">혼잡 (60-79점)</span>
-              </div>
-              <div className="legend-item">
-                <div className="legend-dot very-busy-dot" />
-                <span className="legend-text">매우 혼잡 (80-100점)</span>
-              </div>
-            </div>
           </CardContent>
         </Card>
       </div>
