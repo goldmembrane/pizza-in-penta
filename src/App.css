@@ -166,6 +166,7 @@
 
 .chart-container {
   min-height: 400px;
+  height: 600px;
   width: 100%;
 }
 
@@ -227,6 +228,14 @@
   font-size: 0.875rem;
 }
 
+.chart-disclaimer {
+  text-align: right;
+  font-size: 0.75rem;
+  color: #9ca3af;
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+
 /* 반응형 디자인 */
 @media (max-width: 768px) {
   .dashboard-container {
@@ -257,6 +266,11 @@
 
   .legend-grid {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .chart-disclaimer {
+    text-align: center;
+    font-size: 0.7rem;
   }
 }
 
