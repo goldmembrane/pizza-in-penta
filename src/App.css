@@ -1,38 +1,290 @@
-.App {
+/* 전체 레이아웃 */
+.dashboard-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #fff7ed 0%, #fed7aa 100%);
+  padding: 1rem;
+}
+
+.dashboard-content {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+/* 로딩 화면 */
+.loading-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #fff7ed 0%, #fed7aa 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.loading-content {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.loading-icon {
+  height: 3rem;
+  width: 3rem;
+  color: #ea580c;
+  margin: 0 auto 1rem;
+  animation: spin 1s linear infinite;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.loading-text {
+  font-size: 1.125rem;
+  color: #6b7280;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
+@keyframes spin {
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+/* 헤더 */
+.header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.header-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+.header-icon {
+  height: 2.5rem;
+  width: 2.5rem;
+  color: #ea580c;
+}
+
+.main-title {
+  font-size: 2.25rem;
+  font-weight: bold;
+  color: #111827;
+  margin: 0;
+}
+
+.header-subtitle {
+  font-size: 1.125rem;
+  color: #6b7280;
+  margin: 0;
+}
+
+/* 통계 카드 그리드 */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.card-header-small {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 0.5rem;
+}
+
+.card-title-small {
+  font-size: 0.875rem;
+  font-weight: 500;
+  margin: 0;
+}
+
+.card-icon {
+  height: 1rem;
+  width: 1rem;
+  color: #9ca3af;
+}
+
+.stat-value {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+}
+
+.stat-label {
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+.stat-sublabel {
+  font-size: 0.75rem;
+  color: #9ca3af;
+  margin: 0;
+}
+
+/* 혼잡도 색상 */
+.free {
+  color: #16a34a;
+}
+.normal {
+  color: #ca8a04;
+}
+.busy {
+  color: #ea580c;
+}
+.very-busy {
+  color: #dc2626;
+}
+
+/* 차트 카드 */
+.chart-card {
+  margin-bottom: 1.5rem;
+}
+
+.chart-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.chart-title-section {
+  flex: 1;
+}
+
+.chart-title {
+  font-size: 1.5rem;
+  margin: 0 0 0.25rem 0;
+}
+
+.chart-buttons {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.chart-container {
+  min-height: 400px;
+  height: 600px;
+  width: 100%;
+}
+
+/* 툴팁 */
+.tooltip-content {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.tooltip-indicator {
+  width: 0.75rem;
+  height: 0.75rem;
+  border-radius: 50%;
+  background-color: #ea580c;
+}
+
+.tooltip-value {
+  font-weight: 500;
+}
+
+.tooltip-level {
+  color: #9ca3af;
+}
+
+/* 범례 */
+.legend-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1rem;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.legend-dot {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+}
+
+.free-dot {
+  background-color: #16a34a;
+}
+.normal-dot {
+  background-color: #ca8a04;
+}
+.busy-dot {
+  background-color: #ea580c;
+}
+.very-busy-dot {
+  background-color: #dc2626;
+}
+
+.legend-text {
+  font-size: 0.875rem;
+}
+
+.chart-disclaimer {
+  text-align: right;
+  font-size: 0.75rem;
+  color: #9ca3af;
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+
+/* 반응형 디자인 */
+@media (max-width: 768px) {
+  .dashboard-container {
+    padding: 0.5rem;
+  }
+
+  .main-title {
+    font-size: 1.875rem;
+  }
+
+  .header-subtitle {
+    font-size: 1rem;
+  }
+
+  .stats-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .chart-header {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .chart-buttons {
+    justify-content: center;
+  }
+
+  .legend-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .chart-disclaimer {
+    text-align: center;
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .header-title {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .main-title {
+    font-size: 1.5rem;
+  }
+
+  .legend-grid {
+    grid-template-columns: 1fr;
   }
 }
