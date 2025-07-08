@@ -26,9 +26,6 @@ const App = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        setLoading(true);
-
-        // 실제 API 호출 예시:
         const response = await fetch(
           process.env.REACT_APP_BACKEND_API_URL + "/api/point-metrics"
         );
@@ -37,7 +34,15 @@ const App = () => {
         const sortedApiData = apiData
           .sort((a, b) => new Date(a.date) - new Date(b.date))
           .slice(-10);
-        setData(sortedApiData);
+
+        setData((prevData) => {
+          const prevJson = JSON.stringify(prevData);
+          const newJson = JSON.stringify(sortedApiData);
+          if (prevJson !== newJson) {
+            return sortedApiData;
+          }
+          return prevData; // 변화 없으면 업데이트 안 함
+        });
       } catch (error) {
         console.error("데이터 가져오기 실패:", error);
       } finally {
@@ -46,6 +51,9 @@ const App = () => {
     };
 
     fetchData();
+    const interval = setInterval(fetchData, 10000); // 10초마다 polling
+
+    return () => clearInterval(interval);
   }, []);
 
   if (loading) {
