@@ -154,9 +154,6 @@ const App = () => {
                 <div className="peak-date">
                   {maxPoint ? maxPoint.date : t("nothing")}
                 </div>
-                <div className="peak-score">
-                  {maxPoint ? `${maxPoint.point}${t("point")}` : t("zero")}
-                </div>
                 <p className="peak-description">{t("last_popularity")}</p>
               </div>
             </CardContent>
