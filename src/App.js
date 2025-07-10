@@ -10,7 +10,7 @@ import {
 } from "./components/ui/card";
 import { ChartContainer } from "./components/ui/chart";
 import { Bar, BarChart, Line, LineChart, XAxis, YAxis } from "recharts";
-import { Pizza } from "lucide-react";
+import { Pizza, Target, AlertTriangle, MapPin } from "lucide-react";
 import { Button } from "./components/ui/button";
 import "./App.css";
 import "./i18n";
@@ -20,8 +20,10 @@ const App = () => {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
   const [chartType, setChartType] = useState("bar");
+  const [maxPoint, setMaxPoint] = useState(null);
 
   const { t } = useTranslation();
+
   // API 데이터 가져오기
   useEffect(() => {
     const fetchData = async () => {
@@ -56,6 +58,36 @@ const App = () => {
     return () => clearInterval(interval);
   }, []);
 
+  const peakCongestionData = () => {
+    if (data.length > 0) {
+      const maxPoint = data.reduce((max, item) =>
+        item.point > max.point ? item : max
+      );
+      const lastMaxPoint = sessionStorage.getItem("maxpoint");
+
+      if (lastMaxPoint !== null) {
+        if (maxPoint.point > lastMaxPoint.point) {
+          const newMaxPoint = JSON.stringify(maxPoint);
+          sessionStorage.setItem("maxpoint", newMaxPoint);
+
+          setMaxPoint(maxPoint);
+        } else {
+          setMaxPoint(lastMaxPoint);
+        }
+      } else {
+        setMaxPoint(maxPoint);
+        const newMaxPoint = JSON.stringify(maxPoint);
+        sessionStorage.setItem("maxpoint", newMaxPoint);
+      }
+    }
+  };
+
+  useEffect(() => {
+    if (data) {
+      peakCongestionData();
+    }
+  }, [data]);
+
   if (loading) {
     return (
       <div className="loading-container">
@@ -77,6 +109,58 @@ const App = () => {
             <h1 className="main-title">{t("title")}</h1>
           </div>
           <p className="header-subtitle">{t("subtitle")}</p>
+
+          <div className="data-source">
+            <MapPin className="data-source-icon" />
+            <span className="data-source-text">{t("google")}</span>
+          </div>
+        </div>
+
+        <div className="info-grid">
+          <Card className="purpose-card">
+            <CardHeader>
+              <div className="purpose-header">
+                <Target className="purpose-icon" />
+                <CardTitle className="purpose-title">
+                  {t("purpose_title")}
+                </CardTitle>
+              </div>
+            </CardHeader>
+            <CardContent>
+              <div className="purpose-content">
+                <h3 className="purpose-subtitle">{t("purpose_subtitle")}</h3>
+                <p className="purpose-description">
+                  {t("purpose_description")}
+                </p>
+                <ul className="purpose-features">
+                  <li>{t("purpose_first")}</li>
+                  <li>{t("purpose_second")}</li>
+                  <li>{t("purpose_third")}</li>
+                  <li>{t("purpose_fourth")}</li>
+                </ul>
+              </div>
+            </CardContent>
+          </Card>
+
+          <Card className="peak-card">
+            <CardHeader>
+              <div className="peak-header">
+                <AlertTriangle className="peak-icon" />
+                <CardTitle className="peak-title">{t("peak_title")}</CardTitle>
+              </div>
+            </CardHeader>
+            <CardContent>
+              <div className="peak-content">
+                <div className="peak-date">
+                  {maxPoint ? maxPoint.date : t("nothing")}
+                </div>
+                <div className="peak-score">
+                  {maxPoint ? `${maxPoint.point}${t("point")}` : t("zero")}
+                </div>
+                <p className="peak-description">{t("last_popularity")}</p>
+              </div>
+            </CardContent>
+          </Card>
         </div>
 
         {/* 메인 차트 */}
@@ -146,10 +230,9 @@ const App = () => {
               )}
             </ChartContainer>
             <div className="chart-disclaimer">
-              이 차트는 펜타곤 주변 매장의 혼잡도를 기반으로 포인트를 자체
-              계산하여 표현했습니다
+              {t("reference")}
               <br />
-              정확한 수치가 아니라는 점을 참고해주시기 바랍니다
+              {t("notAccuracy")}
             </div>
           </CardContent>
         </Card>
