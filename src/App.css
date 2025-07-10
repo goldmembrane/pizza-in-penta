@@ -202,9 +202,10 @@
 }
 
 .peak-date {
-  font-size: 1rem;
-  font-weight: 500;
+  font-size: 2rem;
+  font-weight: bold;
   margin-bottom: 0.25rem;
+  color: #dc2626;
 }
 
 .peak-time {
@@ -229,9 +230,9 @@
 }
 
 .peak-description {
-  font-size: 0.75rem;
+  font-size: 1rem;
   color: #78716c;
-  margin: 0;
+  margin: 20px;
   font-style: italic;
 }
 
