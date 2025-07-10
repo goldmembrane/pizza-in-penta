@@ -78,6 +78,163 @@
   margin: 0;
 }
 
+/* 데이터 출처 표시 */
+.data-source {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  background: linear-gradient(135deg, #e0f2fe 0%, #bae6fd 100%);
+  border: 1px solid #0ea5e9;
+  border-radius: 0.5rem;
+  padding: 0.75rem 1rem;
+  margin: 0 auto;
+  max-width: 600px;
+  margin-top: 20px;
+}
+
+.data-source-icon {
+  height: 1.25rem;
+  width: 1.25rem;
+  color: #0369a1;
+  flex-shrink: 0;
+}
+
+.data-source-text {
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #0c4a6e;
+  text-align: center;
+}
+
+.info-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+/* 목적 카드 */
+.purpose-card {
+  background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+  border: 1px solid #0ea5e9;
+}
+
+.purpose-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.purpose-icon {
+  height: 1.5rem;
+  width: 1.5rem;
+  color: #0ea5e9;
+}
+
+.purpose-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #0c4a6e;
+  margin: 0;
+}
+
+.purpose-content {
+  color: #0c4a6e;
+}
+
+.purpose-subtitle {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin: 0 0 1rem 0;
+  color: #0369a1;
+}
+
+.purpose-description {
+  font-size: 0.875rem;
+  line-height: 1.6;
+  margin: 0 0 1rem 0;
+  color: #075985;
+}
+
+.purpose-features {
+  font-size: 0.875rem;
+  line-height: 1.6;
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+  color: #075985;
+}
+
+.purpose-features li {
+  margin-bottom: 0.25rem;
+}
+
+/* 최고 혼잡도 카드 */
+.peak-card {
+  background: linear-gradient(135deg, #fef3c7 0%, #fed7aa 100%);
+  border: 1px solid #f59e0b;
+}
+
+.peak-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.peak-icon {
+  height: 1.5rem;
+  width: 1.5rem;
+  color: #f59e0b;
+}
+
+.peak-title {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: #92400e;
+  margin: 0;
+}
+
+.peak-content {
+  text-align: center;
+  color: #92400e;
+  margin-top: 30px;
+}
+
+.peak-date {
+  font-size: 1rem;
+  font-weight: 500;
+  margin-bottom: 0.25rem;
+}
+
+.peak-time {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  color: #b45309;
+}
+
+.peak-score {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+  color: #dc2626;
+}
+
+.peak-level {
+  font-size: 0.875rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  color: #dc2626;
+}
+
+.peak-description {
+  font-size: 0.75rem;
+  color: #78716c;
+  margin: 0;
+  font-style: italic;
+}
+
 /* 통계 카드 그리드 */
 .stats-grid {
   display: grid;
