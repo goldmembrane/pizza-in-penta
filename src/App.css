@@ -394,6 +394,67 @@
   font-style: italic;
 }
 
+.analysis-card {
+  margin-bottom: 1.5rem;
+  background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+  border: 1px solid #cbd5e1;
+}
+
+.analysis-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.analysis-icon {
+  height: 1.5rem;
+  width: 1.5rem;
+  color: #475569;
+}
+
+.analysis-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #1e293b;
+  margin: 0;
+}
+
+.analysis-subtitle {
+  color: #64748b;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+}
+
+.analysis-content {
+  color: #334155;
+}
+
+.analysis-section {
+  margin-bottom: 1.5rem;
+}
+
+.analysis-section:last-child {
+  margin-bottom: 0;
+}
+
+.analysis-section-title {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: #1e293b;
+  margin: 0 0 0.75rem 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.analysis-text {
+  font-size: 0.9rem;
+  line-height: 1.7;
+  color: #475569;
+  margin: 0;
+  text-align: justify;
+}
+
 /* 반응형 디자인 */
 @media (max-width: 768px) {
   .dashboard-container {

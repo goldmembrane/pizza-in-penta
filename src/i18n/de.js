@@ -30,6 +30,16 @@ const de = {
     point: "punkt",
     last_popularity:
       "Es war die arbeitsreichste Zeit des vergangenen Zeitraums.",
+    insight_title: "Datenanalyse und Erkenntnisse",
+    analysis_title: "Analyse der Stauung in Pizzerien in der Nähe des Pentagon",
+    analysis_first:
+      "Am 4. Juli 2025 wurde die höchste Stauung in Pizzerien rund um das Pentagon festgestellt. Dieses Gebiet liegt nahe dem US-Verteidigungsministerium und hat eine besondere Bedeutung über normale Gewerbegebiete hinaus – Sicherheits- und diplomatische Entscheidungen werden hier getroffen, daher spiegeln sich auch interne Regierungsdynamiken und internationale Entwicklungen in Verbrauchstrends wider.",
+    analysis_second:
+      "Der Independence Day betont symbolisch das Bewusstsein für nationale Sicherheit. In diesem Jahr wurde eine verstärkte militärische Alarmbereitschaft im Vergleich zum Vorjahr beobachtet, während geopolitische Spannungen im Nahen Osten und in Europa erneut zunahmen. Diese Entwicklungen führten wahrscheinlich zu Militärrunden, Pressebriefings und internen Einsatzprüfungen, was zeitweilig mehr Menschen in die Umgebung zog.",
+    analysis_third:
+      "Pizzerien gelten als praktisch und leicht zugänglich und sind daher bei Militärangehörigen, Journalisten und externen Besuchern sehr gefragt. Ein plötzlicher Anstieg der Auslastung kann als indirekter Hinweis auf intensive interne Aktivitäten verstanden werden.",
+    analysis_fourth:
+      "Änderungen im Kundenaufkommen nahe eines sicherheitspolitischen Zentrums während politisch oder militärisch hochwertigen Zeiten stellen mehr dar als rein wirtschaftliche Indikatoren – sie zeigen Reaktionsfähigkeit auf spezifische Themen und geben Einblicke in Krisenmanagementstrukturen. Diese Muster könnten als Frühwarnsystem bei ähnlichen Situationen dienen. Durch die Kombination kurzfristiger Daten mit langfristigen Trends lässt sich ein verfeinertes System zur geopolitischen Beobachtung entwickeln.",
   },
 };
 
