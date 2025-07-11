@@ -10,7 +10,7 @@ import {
 } from "./components/ui/card";
 import { ChartContainer } from "./components/ui/chart";
 import { Bar, BarChart, Line, LineChart, XAxis, YAxis } from "recharts";
-import { Pizza, Target, AlertTriangle, MapPin } from "lucide-react";
+import { Pizza, Target, AlertTriangle, MapPin, FileText } from "lucide-react";
 import { Button } from "./components/ui/button";
 import "./App.css";
 import "./i18n";
@@ -230,6 +230,40 @@ const App = () => {
               {t("reference")}
               <br />
               {t("notAccuracy")}
+            </div>
+          </CardContent>
+        </Card>
+
+        {/* 데이터 분석 카드 */}
+        <Card className="analysis-card">
+          <CardHeader>
+            <div className="analysis-header">
+              <FileText className="analysis-icon" />
+              <CardTitle className="analysis-title">
+                {t("insight_title")}
+              </CardTitle>
+            </div>
+            <CardDescription className="analysis-subtitle">
+              {`📊 ${maxPoint.date} ${t("analysis_title")}`}
+            </CardDescription>
+          </CardHeader>
+          <CardContent>
+            <div className="analysis-content">
+              <div className="analysis-section">
+                <p className="analysis-text">{t("analysis_first")}</p>
+              </div>
+
+              <div className="analysis-section">
+                <p className="analysis-text">{t("analysis_second")}</p>
+              </div>
+
+              <div className="analysis-section">
+                <p className="analysis-text">{t("analysis_third")}</p>
+              </div>
+
+              <div className="analysis-section">
+                <p className="analysis-text">{t("analysis_fourth")}</p>
+              </div>
             </div>
           </CardContent>
         </Card>
