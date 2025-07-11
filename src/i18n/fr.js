@@ -31,6 +31,17 @@ const fr = {
     point: "indiquer",
     last_popularity:
       "C'était la période la plus chargée de la période écoulée.",
+    insight_title: "Analyse et aperçu des données",
+    analysis_title:
+      "Analyse de la Congestion dans les Pizzerias autour du Pentagone",
+    analysis_first:
+      "Le 4 juillet 2025 a connu le pic de congestion le plus élevé dans les pizzerias près du Pentagone. Cette zone, située à proximité immédiate du Département de la Défense des États-Unis, a une portée particulière au-delà d’un simple espace commercial : elle est un centre décisionnel en matière de sécurité et de diplomatie, rendant les tendances de consommation sensibles aux dynamiques gouvernementales et aux évolutions internationales.",
+    analysis_second:
+      "La fête de l’Indépendance renforce symboliquement la vigilance nationale, et cette année, une posture militaire renforcée a été observée, alors que les tensions géopolitiques au Moyen-Orient et en Europe s’intensifiaient. Ce climat a probablement enclenché des réunions militaires, des réunions de presse et des examens opérationnels internes, provoquant une concentration temporaire de personnes dans le quartier.",
+    analysis_third:
+      "Les pizzerias, de par leur accessibilité et leur rapidité, attirent les militaires, les journalistes et les participants externes. Une hausse soudaine de leur fréquentation peut être interprétée comme un signe indirect d’activité accrue en interne.",
+    analysis_fourth:
+      "Des variations dans la fréquentation commerciale autour d’un foyer sécuritaire pendant des périodes politiquement ou militairement denses ne sont pas uniquement des indicateurs de consommation : elles traduisent la réactivité face à des enjeux spécifiques et le bon fonctionnement des systèmes de crise. Reconnaître ces tendances pourrait constituer une alerte précoce. En combinant données à court terme et tendances à long terme, cette approche peut évoluer en un dispositif de veille géopolitique affiné.",
   },
 };
 
