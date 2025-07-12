@@ -35,13 +35,13 @@ const fr = {
     analysis_title:
       "Analyse de la Congestion dans les Pizzerias autour du Pentagone",
     analysis_first:
-      "Le 4 juillet 2025 a connu le pic de congestion le plus élevé dans les pizzerias près du Pentagone. Cette zone, située à proximité immédiate du Département de la Défense des États-Unis, a une portée particulière au-delà d’un simple espace commercial : elle est un centre décisionnel en matière de sécurité et de diplomatie, rendant les tendances de consommation sensibles aux dynamiques gouvernementales et aux évolutions internationales.",
+      "Le 10 juillet 2025, la congestion des pizzerias autour du Pentagone a atteint un pic historique, un phénomène qui ne peut s'expliquer uniquement par une hausse temporaire de la demande. D'ordinaire, les pics de fréquentation coïncident avec les heures de repas des employés du ministère de la Défense, mais ce jour-là, une hausse exceptionnelle a été observée.",
     analysis_second:
-      "La fête de l’Indépendance renforce symboliquement la vigilance nationale, et cette année, une posture militaire renforcée a été observée, alors que les tensions géopolitiques au Moyen-Orient et en Europe s’intensifiaient. Ce climat a probablement enclenché des réunions militaires, des réunions de presse et des examens opérationnels internes, provoquant une concentration temporaire de personnes dans le quartier.",
+      "Ce matin-là, le département de la Défense des États-Unis a publié des images satellites d’installations nucléaires iraniennes et a évoqué un possible conflit militaire au Moyen-Orient. Des rumeurs sur l’échec de négociations secrètes avec l’Iran ont exacerbé les tensions. Il est probable que de nombreux employés soient restés à l’intérieur du Pentagone, augmentant considérablement la demande de repas rapides comme la pizza.",
     analysis_third:
-      "Les pizzerias, de par leur accessibilité et leur rapidité, attirent les militaires, les journalistes et les participants externes. Une hausse soudaine de leur fréquentation peut être interprétée comme un signe indirect d’activité accrue en interne.",
+      "Des rapports ont également mentionné un renforcement des équipes de nuit dans les services de sécurité. De plus, c'était la première semaine de travail complète après la fête nationale du 4 juillet.",
     analysis_fourth:
-      "Des variations dans la fréquentation commerciale autour d’un foyer sécuritaire pendant des périodes politiquement ou militairement denses ne sont pas uniquement des indicateurs de consommation : elles traduisent la réactivité face à des enjeux spécifiques et le bon fonctionnement des systèmes de crise. Reconnaître ces tendances pourrait constituer une alerte précoce. En combinant données à court terme et tendances à long terme, cette approche peut évoluer en un dispositif de veille géopolitique affiné.",
+      "En résumé, cette augmentation résulte d’un enchaînement de tensions géopolitiques, d'une intensification des activités internes au Pentagone et d'une forte demande alimentaire, illustrant comment les événements mondiaux influencent directement les habitudes locales.",
   },
 };
 

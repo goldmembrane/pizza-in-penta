@@ -32,13 +32,13 @@ const es = {
     insight_title: "Análisis de datos y perspectivas",
     analysis_title: "Análisis de Congestión en Pizzerías Cercanas al Pentágono",
     analysis_first:
-      "El 4 de julio de 2025 registró la mayor congestión en las pizzerías cercanas al Pentágono. Esta zona, ubicada frente al Departamento de Defensa de EE. UU., tiene un significado especial más allá de su función comercial normal; las decisiones diplomáticas y de seguridad nacional se toman aquí, por lo que los patrones de consumo pueden reflejar cambios dentro del gobierno o el contexto internacional.",
+      "El 10 de julio de 2025, la congestión en las pizzerías cercanas al Pentágono alcanzó un nivel histórico. Este fenómeno no puede atribuirse únicamente a una popularidad temporal. Generalmente, el tráfico se concentra durante el almuerzo o al finalizar la jornada laboral de los empleados del Departamento de Defensa, pero ese día se observó un aumento anormal.",
     analysis_second:
-      "El Día de la Independencia despierta una mayor conciencia simbólica sobre la seguridad nacional, y este año en particular se observó un aumento de la alerta militar respecto al año anterior, en un momento de reavivamiento de tensiones geopolíticas en Oriente Medio y Europa. Este contexto probablemente generó reuniones militares, conferencias de prensa y revisiones internas, provocando un pico temporal de actividad en la zona.",
+      "Esa mañana, el Departamento de Defensa de EE.UU. publicó imágenes satelitales de instalaciones nucleares iraníes y advirtió sobre un posible conflicto militar en Medio Oriente. Los rumores sobre el fracaso de negociaciones secretas con Irán intensificaron la tensión. Se cree que muchos empleados permanecieron en el edificio, aumentando la demanda de alimentos rápidos como la pizza.",
     analysis_third:
-      "Las pizzerías, gracias a su accesibilidad y rapidez, son lugares favoritos para personal militar, periodistas y asistentes externos. Un incremento repentino en su congestión puede interpretarse como señal indirecta de intensificación de movimientos internos.",
+      "Además, se reportó un refuerzo del personal de seguridad durante turnos nocturnos. También fue la primera semana laboral completa después del feriado del 4 de julio, lo que contribuyó a una mayor demanda.",
     analysis_fourth:
-      "El cambio en el flujo del entorno de seguridad en días políticamente o militarmente sensibles va más allá de un indicador de consumo: refleja la capacidad de respuesta ante situaciones específicas y el funcionamiento efectivo de sistemas de gestión de crisis. Identificar este patrón puede servir como alerta temprana. Al combinar análisis a corto plazo con tendencias a largo plazo, se puede mejorar el monitoreo geopolítico.",
+      "En conclusión, el pico se debió a una combinación de tensiones geopolíticas, aumento de la actividad dentro del Pentágono y una mayor necesidad de comidas internas, demostrando cómo los eventos internacionales afectan el consumo local.",
   },
 };
 
