@@ -35,13 +35,13 @@ const de = {
     insight_title: "Datenanalyse und Erkenntnisse",
     analysis_title: "Analyse der Stauung in Pizzerien in der Nähe des Pentagon",
     analysis_first:
-      "Am 10. Juli 2025 erreichte die Überlastung von Pizzerien in der Nähe des Pentagon einen historischen Höchststand – ein Phänomen, das sich nicht allein mit vorübergehender Beliebtheit erklären lässt. Normalerweise korrelieren die Besucherspitzen mit Essenszeiten der Mitarbeiter des Verteidigungsministeriums. Doch an diesem Tag stiegen die Zahlen sprunghaft an.",
+      "Am 12. Juli 2025 verzeichneten Pizzerien rund um das Pentagon einen neuen Rekordwert an Bestellungen und Besucherzahlen. Diese Entwicklung lässt sich nicht allein durch typische Mittagszeiten oder Wochenendverhalten erklären. Historisch gesehen traten ähnliche Ausschläge in Verbindung mit geopolitischen Krisen auf.",
     analysis_second:
-      "Am Morgen des 10. Juli veröffentlichte das US-Verteidigungsministerium Aufklärungsergebnisse zu iranischen Atomanlagen und sprach offen über mögliche militärische Konflikte im Nahen Osten. Gerüchte über gescheiterte Geheimverhandlungen mit dem Iran verstärkten die Anspannung. Dies führte zu erhöhter Einsatzbereitschaft und längeren Aufenthalten im Pentagon, wodurch sich die Nachfrage nach schneller Verpflegung wie Pizza drastisch erhöhte.",
+      "Zeitgleich berichteten die Financial Times und Reuters, dass das US-Verteidigungsministerium Verbündete wie Japan und Australien aufforderte, ihre militärische Rolle im Falle eines Konflikts mit China wegen Taiwan offen zu benennen. Diese Forderung stellt eine bemerkenswerte strategische Eskalation dar und signalisiert intensive militärische Planungen.",
     analysis_third:
-      "Berichte über nächtliche Notfallbesetzungen in sicherheitsrelevanten Abteilungen deuten ebenfalls auf zusätzlichen Konsum hin. Hinzu kommt, dass es sich um die erste reguläre Arbeitswoche nach dem Unabhängigkeitstag handelte.",
+      "Solche Entwicklungen führen häufig zu erhöhtem Personalbedarf, Nachtarbeit und zahlreichen internen Besprechungen. In solchen Situationen steigt der Bedarf an schneller Verpflegung stark an – insbesondere an Pizza, die sich schnell bestellen und teilen lässt. Dies deutet auf eine operative Mobilisierung im Inneren hin, wie sie auch in früheren Krisen beobachtet wurde.",
     analysis_fourth:
-      "Zusammenfassend ist der Anstieg auf eine Kombination aus geopolitischen Spannungen, erhöhter Aktivität im Pentagon und einer kumulierten Essensnachfrage zurückzuführen – ein deutliches Zeichen dafür, wie stark sich globale Ereignisse auf lokale Konsummuster auswirken können.",
+      "Zusammengefasst lässt sich sagen: Der Pizza-Boom vom 12. Juli ist wahrscheinlich ein indirekter Indikator für globale Spannungen und interne Einsatzbereitschaft der US-Streitkräfte. Der sogenannte 'Pentagon Pizza Index' bietet somit wertvolle Einblicke in verdeckte geopolitische Dynamiken.",
   },
 };
 
