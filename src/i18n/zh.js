@@ -22,6 +22,8 @@ const zh = {
     nothing: "没有数据",
     zero: "0观点",
     point: "观点",
+    privacy_policy: "隐私政策",
+    terms_of_service: "服务条款",
     last_popularity: "这是过去一段时间以来最忙碌的时刻。",
     insight_title: "数据分析与洞察",
     analysis_title: "五角大楼附近披萨店拥堵度分析",

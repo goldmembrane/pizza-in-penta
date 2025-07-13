@@ -28,6 +28,8 @@ const de = {
     nothing: "keine Daten",
     zero: "0punkt",
     point: "punkt",
+    privacy_policy: "Datenschutzerklärung",
+    terms_of_service: "Nutzungsbedingungen",
     last_popularity:
       "Es war die arbeitsreichste Zeit des vergangenen Zeitraums.",
     insight_title: "Datenanalyse und Erkenntnisse",

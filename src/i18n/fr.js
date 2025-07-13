@@ -29,6 +29,8 @@ const fr = {
     nothing: "aucune donnée",
     zero: "0indiquer",
     point: "indiquer",
+    privacy_policy: "Politique de Confidentialité",
+    terms_of_service: "Conditions Générales d’Utilisation",
     last_popularity:
       "C'était la période la plus chargée de la période écoulée.",
     insight_title: "Analyse et aperçu des données",

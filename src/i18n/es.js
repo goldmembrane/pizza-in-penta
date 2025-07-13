@@ -28,6 +28,8 @@ const es = {
     nothing: "sin datos",
     zero: "0punto",
     point: "punto",
+    privacy_policy: "Política de Privacidad",
+    terms_of_service: "Términos de Uso",
     last_popularity: "Fue la época de mayor actividad del último período.",
     insight_title: "Análisis de datos y perspectivas",
     analysis_title: "Análisis de Congestión en Pizzerías Cercanas al Pentágono",
