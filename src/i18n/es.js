@@ -34,13 +34,13 @@ const es = {
     insight_title: "Análisis de datos y perspectivas",
     analysis_title: "Análisis de Congestión en Pizzerías Cercanas al Pentágono",
     analysis_first:
-      "El 10 de julio de 2025, la congestión en las pizzerías cercanas al Pentágono alcanzó un nivel histórico. Este fenómeno no puede atribuirse únicamente a una popularidad temporal. Generalmente, el tráfico se concentra durante el almuerzo o al finalizar la jornada laboral de los empleados del Departamento de Defensa, pero ese día se observó un aumento anormal.",
+      "El 12 de julio de 2025, las pizzerías cercanas al Pentágono experimentaron una congestión sin precedentes. Este aumento no puede atribuirse simplemente al almuerzo habitual o al comportamiento de fin de semana. Casos similares han coincidido anteriormente con momentos de gran tensión geopolítica o militar.",
     analysis_second:
-      "Esa mañana, el Departamento de Defensa de EE.UU. publicó imágenes satelitales de instalaciones nucleares iraníes y advirtió sobre un posible conflicto militar en Medio Oriente. Los rumores sobre el fracaso de negociaciones secretas con Irán intensificaron la tensión. Se cree que muchos empleados permanecieron en el edificio, aumentando la demanda de alimentos rápidos como la pizza.",
+      "Ese mismo día, Financial Times y Reuters informaron que el Departamento de Defensa de EE.UU. pidió a sus aliados Japón y Australia definir claramente sus roles ante un posible conflicto con China sobre Taiwán. Esta solicitud representa un giro estratégico importante respecto a la tradicional ambigüedad estadounidense.",
     analysis_third:
-      "Además, se reportó un refuerzo del personal de seguridad durante turnos nocturnos. También fue la primera semana laboral completa después del feriado del 4 de julio, lo que contribuyó a una mayor demanda.",
+      "Ante este contexto, es muy probable que dentro del Pentágono se realizaran reuniones de emergencia, simulacros tácticos y jornadas extendidas. En este tipo de situaciones, la demanda de comida rápida como la pizza tiende a dispararse, reflejando indirectamente la intensidad operativa interna.",
     analysis_fourth:
-      "En conclusión, el pico se debió a una combinación de tensiones geopolíticas, aumento de la actividad dentro del Pentágono y una mayor necesidad de comidas internas, demostrando cómo los eventos internacionales afectan el consumo local.",
+      "Así, el incremento del 12 de julio no debe considerarse una coincidencia. Es una manifestación de la convergencia entre tensiones globales y preparación militar activa. El llamado 'Índice de Pizza del Pentágono' se consolida como un indicador indirecto pero revelador de movimientos estratégicos relevantes.",
   },
 };
 
