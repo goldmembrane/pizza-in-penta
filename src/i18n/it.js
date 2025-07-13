@@ -29,6 +29,8 @@ const it = {
     nothing: "nessun dato",
     zero: "0punto",
     point: "punto",
+    privacy_policy: "Informativa sulla Privacy",
+    terms_of_service: "Termini di Servizio",
     last_popularity: "È stato il periodo più intenso degli ultimi anni.",
     insight_title: "Analisi dei dati e approfondimenti",
     analysis_title:

@@ -24,6 +24,8 @@ const App = () => {
 
   const { t } = useTranslation();
 
+  const userLang = navigator.language || navigator.userLanguage;
+
   // API 데이터 가져오기
   useEffect(() => {
     const fetchData = async () => {
@@ -117,31 +119,6 @@ const App = () => {
         </div>
 
         <div className="info-grid">
-          <Card className="purpose-card">
-            <CardHeader>
-              <div className="purpose-header">
-                <Target className="purpose-icon" />
-                <CardTitle className="purpose-title">
-                  {t("purpose_title")}
-                </CardTitle>
-              </div>
-            </CardHeader>
-            <CardContent>
-              <div className="purpose-content">
-                <h3 className="purpose-subtitle">{t("purpose_subtitle")}</h3>
-                <p className="purpose-description">
-                  {t("purpose_description")}
-                </p>
-                <ul className="purpose-features">
-                  <li>{t("purpose_first")}</li>
-                  <li>{t("purpose_second")}</li>
-                  <li>{t("purpose_third")}</li>
-                  <li>{t("purpose_fourth")}</li>
-                </ul>
-              </div>
-            </CardContent>
-          </Card>
-
           <Card className="peak-card">
             <CardHeader>
               <div className="peak-header">
@@ -155,6 +132,40 @@ const App = () => {
                   {maxPoint ? maxPoint.date : t("nothing")}
                 </div>
                 <p className="peak-description">{t("last_popularity")}</p>
+              </div>
+            </CardContent>
+          </Card>
+
+          {/* 데이터 분석 카드 */}
+          <Card className="analysis-card">
+            <CardHeader>
+              <div className="analysis-header">
+                <FileText className="analysis-icon" />
+                <CardTitle className="analysis-title">
+                  {t("insight_title")}
+                </CardTitle>
+              </div>
+              <CardDescription className="analysis-subtitle">
+                {`📊 ${maxPoint ? maxPoint.date : ""} ${t("analysis_title")}`}
+              </CardDescription>
+            </CardHeader>
+            <CardContent>
+              <div className="analysis-content">
+                <div className="analysis-section">
+                  <p className="analysis-text">{t("analysis_first")}</p>
+                </div>
+
+                <div className="analysis-section">
+                  <p className="analysis-text">{t("analysis_second")}</p>
+                </div>
+
+                <div className="analysis-section">
+                  <p className="analysis-text">{t("analysis_third")}</p>
+                </div>
+
+                <div className="analysis-section">
+                  <p className="analysis-text">{t("analysis_fourth")}</p>
+                </div>
               </div>
             </CardContent>
           </Card>
@@ -234,39 +245,137 @@ const App = () => {
           </CardContent>
         </Card>
 
-        {/* 데이터 분석 카드 */}
-        <Card className="analysis-card">
+        {/* 사이트 목적 카드 */}
+        <Card className="purpose-card">
           <CardHeader>
-            <div className="analysis-header">
-              <FileText className="analysis-icon" />
-              <CardTitle className="analysis-title">
-                {t("insight_title")}
+            <div className="purpose-header">
+              <Target className="purpose-icon" />
+              <CardTitle className="purpose-title">
+                {t("purpose_title")}
               </CardTitle>
             </div>
+
             <CardDescription className="analysis-subtitle">
               {`📊 ${maxPoint ? maxPoint.date : ""} ${t("analysis_title")}`}
             </CardDescription>
+
           </CardHeader>
           <CardContent>
-            <div className="analysis-content">
-              <div className="analysis-section">
-                <p className="analysis-text">{t("analysis_first")}</p>
-              </div>
-
-              <div className="analysis-section">
-                <p className="analysis-text">{t("analysis_second")}</p>
-              </div>
-
-              <div className="analysis-section">
-                <p className="analysis-text">{t("analysis_third")}</p>
-              </div>
-
-              <div className="analysis-section">
-                <p className="analysis-text">{t("analysis_fourth")}</p>
-              </div>
+            <div className="purpose-content">
+              <h3 className="purpose-subtitle">{t("purpose_subtitle")}</h3>
+              <p className="purpose-description">{t("purpose_description")}</p>
+              <ul className="purpose-features">
+                <li>{t("purpose_first")}</li>
+                <li>{t("purpose_second")}</li>
+                <li>{t("purpose_third")}</li>
+                <li>{t("purpose_fourth")}</li>
+              </ul>
             </div>
           </CardContent>
         </Card>
+
+        <footer className="footer">
+          <div className="footer-content">
+            <div className="footer-left"></div>
+
+            <div className="footer-center">
+              <div className="footer-info">
+                <p className="footer-info-item">
+                  <span className="footer-info-label">데이터 출처:</span>
+                  <span className="footer-info-value">Google Maps API</span>
+                </p>
+              </div>
+            </div>
+
+            <div className="footer-right">
+              <div className="footer-links">
+                <h4 className="footer-links-title">법적 고지</h4>
+                <div className="footer-links-list">
+                  {userLang.startsWith("ko") && (
+                    <a href="/privacy/privacy.html" className="footer-link">
+                      {t("privacy_policy")}
+                    </a>
+                  )}
+                  {userLang.startsWith("de") && (
+                    <a href="/privacy/privacyDE.html" className="footer-link">
+                      {t("privacy_policy")}
+                    </a>
+                  )}
+                  {userLang.startsWith("en") && (
+                    <a href="/privacy/privacyEN.html" className="footer-link">
+                      {t("privacy_policy")}
+                    </a>
+                  )}
+                  {userLang.startsWith("es") && (
+                    <a href="/privacy/privacyES.html" className="footer-link">
+                      {t("privacy_policy")}
+                    </a>
+                  )}
+                  {userLang.startsWith("fr") && (
+                    <a href="/privacy/privacyFR.html" className="footer-link">
+                      {t("privacy_policy")}
+                    </a>
+                  )}
+                  {userLang.startsWith("it") && (
+                    <a href="/privacy/privacyIT.html" className="footer-link">
+                      {t("privacy_policy")}
+                    </a>
+                  )}
+                  {userLang.startsWith("ja") && (
+                    <a href="/privacy/privacyJA.html" className="footer-link">
+                      {t("privacy_policy")}
+                    </a>
+                  )}
+                  {userLang.startsWith("zh") && (
+                    <a href="/privacy/privacyZH.html" className="footer-link">
+                      {t("privacy_policy")}
+                    </a>
+                  )}
+                  {userLang.startsWith("ko") && (
+                    <a href="/terms/terms.html" className="footer-link">
+                      {t("terms_of_service")}
+                    </a>
+                  )}
+                  {userLang.startsWith("de") && (
+                    <a href="/terms/termsDE.html" className="footer-link">
+                      {t("terms_of_service")}
+                    </a>
+                  )}
+                  {userLang.startsWith("en") && (
+                    <a href="/terms/termsEN.html" className="footer-link">
+                      {t("terms_of_service")}
+                    </a>
+                  )}
+                  {userLang.startsWith("es") && (
+                    <a href="/terms/termsES.html" className="footer-link">
+                      {t("terms_of_service")}
+                    </a>
+                  )}
+                  {userLang.startsWith("fr") && (
+                    <a href="/terms/termsFR.html" className="footer-link">
+                      {t("terms_of_service")}
+                    </a>
+                  )}
+                  {userLang.startsWith("it") && (
+                    <a href="/terms/termsIT.html" className="footer-link">
+                      {t("terms_of_service")}
+                    </a>
+                  )}
+                  {userLang.startsWith("ja") && (
+                    <a href="/terms/termsJA.html" className="footer-link">
+                      {t("terms_of_service")}
+                    </a>
+                  )}
+                  {userLang.startsWith("zh") && (
+                    <a href="/terms/termsZH.html" className="footer-link">
+                      {t("terms_of_service")}
+                    </a>
+                  )}
+                </div>
+              </div>
+            </div>
+          </div>
+        </footer>
       </div>
     </div>
   );
