@@ -26,6 +26,8 @@ const en = {
     nothing: "no data",
     zero: "0point",
     point: "point",
+    privacy_policy: "Privacy Policy",
+    terms_of_service: "Terms of Service",
     last_popularity: "It was the busiest time of the past period.",
     insight_title: "Data Analysis and Insights",
     analysis_title: " Analysis of Pizza Shop Congestion Near the Pentagon",

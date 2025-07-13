@@ -24,6 +24,8 @@ const ja = {
     nothing: "データなし",
     zero: "0点",
     point: "点",
+    privacy_policy: "プライバシーポリシー",
+    terms_of_service: "利用規約",
     last_popularity: "過去の期間の中で最も混雑していた時点です。",
     insight_title: "データ分析とインサイト",
     analysis_title: "ペンタゴン周辺ピザ店の混雑度状況分析",

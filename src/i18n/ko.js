@@ -24,6 +24,8 @@ const ko = {
     nothing: "데이터 없음",
     zero: "0점",
     point: "점",
+    privacy_policy: "개인정보처리방침",
+    terms_of_service: "이용약관",
     last_popularity: "지난 기간 중 가장 혼잡했던 시점입니다",
     insight_title: "데이터 분석 및 인사이트",
     analysis_title: "펜타곤 인근 피자 매장 혼잡도 분석",
