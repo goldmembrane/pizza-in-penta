@@ -37,13 +37,13 @@ const fr = {
     analysis_title:
       "Analyse de la Congestion dans les Pizzerias autour du Pentagone",
     analysis_first:
-      "Le 10 juillet 2025, la congestion des pizzerias autour du Pentagone a atteint un pic historique, un phénomène qui ne peut s'expliquer uniquement par une hausse temporaire de la demande. D'ordinaire, les pics de fréquentation coïncident avec les heures de repas des employés du ministère de la Défense, mais ce jour-là, une hausse exceptionnelle a été observée.",
+      "Le 12 juillet 2025, les pizzerias autour du Pentagone ont connu un pic de fréquentation historique. Ce phénomène dépasse les simples hausses liées aux horaires de repas ou aux effets du week-end. De précédents épisodes similaires ont souvent coïncidé avec des périodes de tension géopolitique ou de mobilisation militaire accrue.",
     analysis_second:
-      "Ce matin-là, le département de la Défense des États-Unis a publié des images satellites d’installations nucléaires iraniennes et a évoqué un possible conflit militaire au Moyen-Orient. Des rumeurs sur l’échec de négociations secrètes avec l’Iran ont exacerbé les tensions. Il est probable que de nombreux employés soient restés à l’intérieur du Pentagone, augmentant considérablement la demande de repas rapides comme la pizza.",
+      "Ce même jour, le Financial Times et Reuters ont rapporté que les États-Unis avaient demandé à leurs alliés comme le Japon et l’Australie de clarifier leur position militaire en cas de conflit avec la Chine à propos de Taïwan. Cette demande représente un tournant dans la posture stratégique américaine, marquant la fin de l’ambiguïté stratégique traditionnelle.",
     analysis_third:
-      "Des rapports ont également mentionné un renforcement des équipes de nuit dans les services de sécurité. De plus, c'était la première semaine de travail complète après la fête nationale du 4 juillet.",
+      "Cette évolution a probablement entraîné une série de réunions, de simulations militaires et d’extensions d’horaires au sein du Pentagone. Dans de telles circonstances, la demande pour des repas rapides comme la pizza augmente fortement, servant d’indicateur indirect de l’intensité de l’activité interne. Ce schéma a déjà été observé dans des périodes de crise, comme lors des tensions Iran-Israël.",
     analysis_fourth:
-      "En résumé, cette augmentation résulte d’un enchaînement de tensions géopolitiques, d'une intensification des activités internes au Pentagone et d'une forte demande alimentaire, illustrant comment les événements mondiaux influencent directement les habitudes locales.",
+      "En conclusion, le pic du 12 juillet ne doit pas être interprété comme une simple coïncidence. Il illustre la convergence entre des tensions internationales croissantes et une mobilisation opérationnelle réelle. L’'indice pizza du Pentagone' devient ainsi un baromètre indirect mais fiable des dynamiques stratégiques en cours.",
   },
 };
 

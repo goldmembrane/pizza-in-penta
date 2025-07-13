@@ -36,13 +36,13 @@ const it = {
     analysis_title:
       "Analisi della Congestione nelle Pizzerie vicino al Pentagono",
     analysis_first:
-      "Il 10 luglio 2025, il livello di affollamento delle pizzerie nei pressi del Pentagono ha raggiunto un picco storico, un fenomeno che non può essere spiegato semplicemente con una crescita improvvisa della popolarità. Di solito, la domanda cresce durante i pasti dei dipendenti del Dipartimento della Difesa, ma quel giorno l’aumento è stato eccezionale.",
+      "Il 12 luglio 2025, le pizzerie nei pressi del Pentagono hanno registrato un picco record di affluenza. Un simile incremento non può essere spiegato solo con la pausa pranzo o i comportamenti del fine settimana. In passato, situazioni simili si sono verificate in coincidenza con importanti tensioni geopolitiche o attività militari.",
     analysis_second:
-      "Quella mattina, il Dipartimento della Difesa degli Stati Uniti ha diffuso immagini satellitari di impianti nucleari iraniani e ha dichiarato pubblicamente la possibilità di un conflitto militare in Medio Oriente. Voci di un fallimento nei negoziati segreti con l’Iran hanno intensificato la tensione. È probabile che molti impiegati siano rimasti all’interno del Pentagono, aumentando la richiesta di cibo rapido come la pizza.",
+      "Nello stesso giorno, il Financial Times e Reuters hanno riferito che il Dipartimento della Difesa degli Stati Uniti ha chiesto a Giappone e Australia di chiarire il proprio ruolo in caso di un conflitto con la Cina sulla questione di Taiwan. Una richiesta del genere segna un cambiamento strategico significativo nella politica statunitense.",
     analysis_third:
-      "Inoltre, sono state segnalate turnazioni straordinarie notturne in ambito sicurezza. Si trattava anche della prima settimana lavorativa completa dopo la Festa dell’Indipendenza.",
+      "È probabile che il Pentagono abbia reagito intensificando le pianificazioni militari, con riunioni di emergenza, simulazioni e orari prolungati. In questi casi, la domanda di cibo veloce come la pizza aumenta notevolmente, diventando un indicatore indiretto dell’attività interna. Questo schema si è già ripetuto durante crisi come quella tra Iran e Israele.",
     analysis_fourth:
-      "In sintesi, l’impennata è il risultato combinato di tensioni geopolitiche, maggiore attività al Pentagono e aumento della domanda alimentare interna, dimostrando come gli eventi globali possano incidere sul consumo locale.",
+      "Pertanto, l’aumento della domanda del 12 luglio non è un semplice caso. Rappresenta l’intersezione tra una crescente tensione globale e una preparazione operativa reale. Il cosiddetto 'indice della pizza del Pentagono' si sta affermando come un segnale utile dei movimenti strategici in corso.",
   },
 };
 

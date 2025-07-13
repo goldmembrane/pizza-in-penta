@@ -32,13 +32,13 @@ const en = {
     insight_title: "Data Analysis and Insights",
     analysis_title: " Analysis of Pizza Shop Congestion Near the Pentagon",
     analysis_first:
-      "On July 10, 2025, pizza shop congestion near the Pentagon reached a historic peak—a phenomenon unlikely to stem from a simple surge in popularity. Typically, traffic aligns with lunch or evening hours tied to Defense Department personnel activity. However, this day saw an extraordinary spike.",
+      "On July 12, 2025, pizza shop congestion near the Pentagon surged to a new peak. This spike cannot be explained by routine lunch hours or weekend demand alone. Similar anomalies in the past have often coincided with heightened military activity or diplomatic tension, suggesting this event reflects more than just consumer behavior.",
     analysis_second:
-      "That morning, the U.S. Department of Defense publicly released satellite surveillance data of Iranian nuclear facilities and acknowledged possible military conflict in the Middle East. Rumors of failed secret talks with Iran intensified the situation. Pentagon staff likely stayed inside or worked overtime, sharply increasing demand for convenient meals like pizza.",
+      "That same day, the Financial Times and Reuters reported that the U.S. Department of Defense had asked allies like Japan and Australia to clarify their expected military roles in the event of a conflict with China over Taiwan. This marked a significant departure from America's previous 'strategic ambiguity' and a shift toward proactive military coordination.",
     analysis_third:
-      "Reports also indicated that emergency staffing was boosted for nighttime shifts in security-related offices. Moreover, it was the first full workweek after the Independence Day holiday, further contributing to cumulative demand.",
+      "Such a request likely triggered intensified planning activities within the Pentagon—potentially including overnight simulations, strategic briefings, and increased staffing. In these cases, demand for fast, easily shareable food like pizza tends to rise sharply, offering an indirect signal of internal activity levels. A similar pattern was observed during the Iran-Israel standoff earlier this year.",
     analysis_fourth:
-      "In summary, the July 10 surge resulted from the intersection of geopolitical tension, increased activity within the Pentagon, and elevated internal food demand—a clear example of how global events can directly influence localized consumption patterns.",
+      "In summary, the July 12 spike in pizza congestion appears to be more than a coincidence. It reflects the convergence of global geopolitical tension and real-time operational readiness inside the U.S. defense structure. The so-called 'Pentagon Pizza Index' has become a meaningful indicator of behind-the-scenes strategic movement.",
   },
 };
 
