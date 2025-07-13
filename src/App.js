@@ -254,6 +254,11 @@ const App = () => {
                 {t("purpose_title")}
               </CardTitle>
             </div>
+
+            <CardDescription className="analysis-subtitle">
+              {`📊 ${maxPoint ? maxPoint.date : ""} ${t("analysis_title")}`}
+            </CardDescription>
+
           </CardHeader>
           <CardContent>
             <div className="purpose-content">

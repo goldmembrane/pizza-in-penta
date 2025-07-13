@@ -32,13 +32,13 @@ const en = {
     insight_title: "Data Analysis and Insights",
     analysis_title: " Analysis of Pizza Shop Congestion Near the Pentagon",
     analysis_first:
-      "July 4, 2025, recorded the highest congestion in pizza shops around the Pentagon. This area, which sits near the U.S. Department of Defense, holds special significance beyond normal commercial zones—security and diplomatic decisions take place here, making consumer trends responsive even to shifts within the government or international affairs.",
+      "On July 10, 2025, pizza shop congestion near the Pentagon reached a historic peak—a phenomenon unlikely to stem from a simple surge in popularity. Typically, traffic aligns with lunch or evening hours tied to Defense Department personnel activity. However, this day saw an extraordinary spike.",
     analysis_second:
-      "Independence Day heightens symbolic awareness of national security, and this year in particular saw increased military readiness compared to last year, with geopolitical tensions in the Middle East and Europe re-emerging. Such dynamics likely led to military meetings, press briefings, and internal operational reviews, drawing a temporary surge of people to the vicinity.",
+      "That morning, the U.S. Department of Defense publicly released satellite surveillance data of Iranian nuclear facilities and acknowledged possible military conflict in the Middle East. Rumors of failed secret talks with Iran intensified the situation. Pentagon staff likely stayed inside or worked overtime, sharply increasing demand for convenient meals like pizza.",
     analysis_third:
-      "Pizza shops—valued for their convenience and accessibility—are popular among military personnel, journalists, and external meeting attendees. A sudden rise in congestion here can provide indirect yet telling signals that internal activities were accelerated.",
+      "Reports also indicated that emergency staffing was boosted for nighttime shifts in security-related offices. Moreover, it was the first full workweek after the Independence Day holiday, further contributing to cumulative demand.",
     analysis_fourth:
-      "Notably, changes in foot traffic near a security hub during politically or militarily sensitive times represent more than mere consumption trends—they mirror responsiveness to specific issues and the operation of crisis-management systems in action. Recognizing these patterns could serve as an early warning mechanism for similar future scenarios. By integrating short-term metrics with long-term trend analysis, this approach could evolve into a refined geopolitical monitoring system.",
+      "In summary, the July 10 surge resulted from the intersection of geopolitical tension, increased activity within the Pentagon, and elevated internal food demand—a clear example of how global events can directly influence localized consumption patterns.",
   },
 };
 

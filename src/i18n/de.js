@@ -35,13 +35,13 @@ const de = {
     insight_title: "Datenanalyse und Erkenntnisse",
     analysis_title: "Analyse der Stauung in Pizzerien in der Nähe des Pentagon",
     analysis_first:
-      "Am 4. Juli 2025 wurde die höchste Stauung in Pizzerien rund um das Pentagon festgestellt. Dieses Gebiet liegt nahe dem US-Verteidigungsministerium und hat eine besondere Bedeutung über normale Gewerbegebiete hinaus – Sicherheits- und diplomatische Entscheidungen werden hier getroffen, daher spiegeln sich auch interne Regierungsdynamiken und internationale Entwicklungen in Verbrauchstrends wider.",
+      "Am 10. Juli 2025 erreichte die Überlastung von Pizzerien in der Nähe des Pentagon einen historischen Höchststand – ein Phänomen, das sich nicht allein mit vorübergehender Beliebtheit erklären lässt. Normalerweise korrelieren die Besucherspitzen mit Essenszeiten der Mitarbeiter des Verteidigungsministeriums. Doch an diesem Tag stiegen die Zahlen sprunghaft an.",
     analysis_second:
-      "Der Independence Day betont symbolisch das Bewusstsein für nationale Sicherheit. In diesem Jahr wurde eine verstärkte militärische Alarmbereitschaft im Vergleich zum Vorjahr beobachtet, während geopolitische Spannungen im Nahen Osten und in Europa erneut zunahmen. Diese Entwicklungen führten wahrscheinlich zu Militärrunden, Pressebriefings und internen Einsatzprüfungen, was zeitweilig mehr Menschen in die Umgebung zog.",
+      "Am Morgen des 10. Juli veröffentlichte das US-Verteidigungsministerium Aufklärungsergebnisse zu iranischen Atomanlagen und sprach offen über mögliche militärische Konflikte im Nahen Osten. Gerüchte über gescheiterte Geheimverhandlungen mit dem Iran verstärkten die Anspannung. Dies führte zu erhöhter Einsatzbereitschaft und längeren Aufenthalten im Pentagon, wodurch sich die Nachfrage nach schneller Verpflegung wie Pizza drastisch erhöhte.",
     analysis_third:
-      "Pizzerien gelten als praktisch und leicht zugänglich und sind daher bei Militärangehörigen, Journalisten und externen Besuchern sehr gefragt. Ein plötzlicher Anstieg der Auslastung kann als indirekter Hinweis auf intensive interne Aktivitäten verstanden werden.",
+      "Berichte über nächtliche Notfallbesetzungen in sicherheitsrelevanten Abteilungen deuten ebenfalls auf zusätzlichen Konsum hin. Hinzu kommt, dass es sich um die erste reguläre Arbeitswoche nach dem Unabhängigkeitstag handelte.",
     analysis_fourth:
-      "Änderungen im Kundenaufkommen nahe eines sicherheitspolitischen Zentrums während politisch oder militärisch hochwertigen Zeiten stellen mehr dar als rein wirtschaftliche Indikatoren – sie zeigen Reaktionsfähigkeit auf spezifische Themen und geben Einblicke in Krisenmanagementstrukturen. Diese Muster könnten als Frühwarnsystem bei ähnlichen Situationen dienen. Durch die Kombination kurzfristiger Daten mit langfristigen Trends lässt sich ein verfeinertes System zur geopolitischen Beobachtung entwickeln.",
+      "Zusammenfassend ist der Anstieg auf eine Kombination aus geopolitischen Spannungen, erhöhter Aktivität im Pentagon und einer kumulierten Essensnachfrage zurückzuführen – ein deutliches Zeichen dafür, wie stark sich globale Ereignisse auf lokale Konsummuster auswirken können.",
   },
 };
 

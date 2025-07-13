@@ -36,13 +36,13 @@ const it = {
     analysis_title:
       "Analisi della Congestione nelle Pizzerie vicino al Pentagono",
     analysis_first:
-      "Il 4 luglio 2025 ha registrato il livello di congestione più alto nelle pizzerie intorno al Pentagono. Quest’area, adiacente al Dipartimento della Difesa degli Stati Uniti, ha un’importanza particolare al di là di uno spazio puramente commerciale – è un centro decisionale per la sicurezza e la diplomazia, e i trend di consumo possono riflettere dinamiche governative o cambiamenti internazionali.",
+      "Il 10 luglio 2025, il livello di affollamento delle pizzerie nei pressi del Pentagono ha raggiunto un picco storico, un fenomeno che non può essere spiegato semplicemente con una crescita improvvisa della popolarità. Di solito, la domanda cresce durante i pasti dei dipendenti del Dipartimento della Difesa, ma quel giorno l’aumento è stato eccezionale.",
     analysis_second:
-      "Il Giorno dell’Indipendenza accresce simbolicamente la consapevolezza della sicurezza nazionale, e quest’anno in particolare è stato osservato un aumento della prontezza militare rispetto all’anno precedente, in risposta alle tensioni geopolitiche in Medio Oriente ed Europa. Questo probabilmente ha portato a riunioni militari, conferenze stampa e revisioni operative, determinando un afflusso temporaneo nella zona.",
+      "Quella mattina, il Dipartimento della Difesa degli Stati Uniti ha diffuso immagini satellitari di impianti nucleari iraniani e ha dichiarato pubblicamente la possibilità di un conflitto militare in Medio Oriente. Voci di un fallimento nei negoziati segreti con l’Iran hanno intensificato la tensione. È probabile che molti impiegati siano rimasti all’interno del Pentagono, aumentando la richiesta di cibo rapido come la pizza.",
     analysis_third:
-      "Le pizzerie, grazie alla loro facilità di accesso e rapidità, sono luoghi frequentati da militari, giornalisti e partecipanti esterni. Un improvviso aumento di affluenza può segnalare indirettamente un’intensificazione delle attività interne.",
+      "Inoltre, sono state segnalate turnazioni straordinarie notturne in ambito sicurezza. Si trattava anche della prima settimana lavorativa completa dopo la Festa dell’Indipendenza.",
     analysis_fourth:
-      "Le variazioni nel flusso attorno a un hub di sicurezza in momenti politicamente o militarmente sensibili vanno oltre i semplici indicatori di consumo: rappresentano reattività e capacità operativa dei sistemi di gestione delle crisi. Individuando questi andamenti, si potrebbe attivare un sistema di allerta precoce. Integrando dati a breve termine con analisi di tendenze a lungo termine, questo metodo si presta a diventare un sofisticato sistema di monitoraggio geopolitico.",
+      "In sintesi, l’impennata è il risultato combinato di tensioni geopolitiche, maggiore attività al Pentagono e aumento della domanda alimentare interna, dimostrando come gli eventi globali possano incidere sul consumo locale.",
   },
 };
 
