@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+>
+  <url>
+    <loc>https://pizzacongest.com/</loc>
+    <lastmod>2025-07-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url><loc>https://pizzacongest.com/privacy/privacy.html</loc></url>
+  <url><loc>https://pizzacongest.com/privacy/privacyDE.html</loc></url>
+  <url><loc>https://pizzacongest.com/privacy/privacyEN.html</loc></url>
+  <url><loc>https://pizzacongest.com/privacy/privacyES.html</loc></url>
+  <url><loc>https://pizzacongest.com/privacy/privacyFR.html</loc></url>
+  <url><loc>https://pizzacongest.com/privacy/privacyIT.html</loc></url>
+  <url><loc>https://pizzacongest.com/privacy/privacyJA.html</loc></url>
+  <url><loc>https://pizzacongest.com/privacy/privacyZH.html</loc></url>
+
+  <url><loc>https://pizzacongest.com/terms/terms.html</loc></url>
+  <url><loc>https://pizzacongest.com/terms/termsDE.html</loc></url>
+  <url><loc>https://pizzacongest.com/terms/termsEN.html</loc></url>
+  <url><loc>https://pizzacongest.com/terms/termsES.html</loc></url>
+  <url><loc>https://pizzacongest.com/terms/termsFR.html</loc></url>
+  <url><loc>https://pizzacongest.com/terms/termsIT.html</loc></url>
+  <url><loc>https://pizzacongest.com/terms/termsJA.html</loc></url>
+  <url><loc>https://pizzacongest.com/terms/termsZH.html</loc></url>
+
+</urlset>
