@@ -22,23 +22,24 @@ const en = {
       "• An indirect indicator of how much a particular piece of news affects international affairs.",
     purpose_fourth:
       "• Indirectly feel the influence of specific events or news",
-    peak_title: "peak congestion",
+    peak_title: "Recent congestion",
     nothing: "no data",
     zero: "0point",
     point: "point",
     privacy_policy: "Privacy Policy",
     terms_of_service: "Terms of Service",
-    last_popularity: "It was the busiest time of the past period.",
+    last_popularity:
+      "This is the point in time when significant congestion has recently been observed.",
     insight_title: "Data Analysis and Insights",
     analysis_title: " Analysis of Pizza Shop Congestion Near the Pentagon",
     analysis_first:
-      "On July 12, 2025, pizza shop congestion near the Pentagon surged to a new peak. This spike cannot be explained by routine lunch hours or weekend demand alone. Similar anomalies in the past have often coincided with heightened military activity or diplomatic tension, suggesting this event reflects more than just consumer behavior.",
+      "On July 17, 2025, the level of congestion at pizza shops near the Pentagon rose significantly. This sharp increase is unlikely to have been caused solely by routine mealtime activity. In fact, several notable geopolitical events occurred that day, particularly the intensifying military tension between Taiwan and China.",
     analysis_second:
-      "That same day, the Financial Times and Reuters reported that the U.S. Department of Defense had asked allies like Japan and Australia to clarify their expected military roles in the event of a conflict with China over Taiwan. This marked a significant departure from America's previous 'strategic ambiguity' and a shift toward proactive military coordination.",
+      "Taiwan conducted a nationwide air raid drill simulating a missile strike by China. Emergency sirens sounded and urban traffic was temporarily restricted in what appeared to be a realistic large-scale preparation. This was closely tied to recent aggressive military maneuvers by Chinese aircraft, which may have prompted increased strategic assessments within the U.S. Department of Defense.",
     analysis_third:
-      "Such a request likely triggered intensified planning activities within the Pentagon—potentially including overnight simulations, strategic briefings, and increased staffing. In these cases, demand for fast, easily shareable food like pizza tends to rise sharply, offering an indirect signal of internal activity levels. A similar pattern was observed during the Iran-Israel standoff earlier this year.",
+      "Additionally, NATO commanders issued a warning on the same day regarding the possibility of a dual-front threat involving both Russia and China. The United States was urged to enhance its defense posture in both Europe and the Indo-Pacific, potentially leading to extended operational hours and greater demand for food services among staff.",
     analysis_fourth:
-      "In summary, the July 12 spike in pizza congestion appears to be more than a coincidence. It reflects the convergence of global geopolitical tension and real-time operational readiness inside the U.S. defense structure. The so-called 'Pentagon Pizza Index' has become a meaningful indicator of behind-the-scenes strategic movement.",
+      "Taken together, the surge in pizza congestion on July 17 does not appear to be coincidental. Rather, it reflects the combined effects of international military readiness, diplomatic positioning, and internal defense coordination. The so-called 'Pentagon Pizza Index' continues to serve as a subtle yet meaningful indicator of real-time geopolitical stress..",
   },
 };
 
