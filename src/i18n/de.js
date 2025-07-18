@@ -24,24 +24,24 @@ const de = {
       "• Ein indirekter Indikator dafür, wie stark eine bestimmte Nachricht die internationalen Angelegenheiten beeinflusst.",
     purpose_fourth:
       "• Spüren Sie indirekt den Einfluss bestimmter Ereignisse oder Nachrichten",
-    peak_title: "Spitzenstau",
+    peak_title: "Aktuelle Staus",
     nothing: "keine Daten",
     zero: "0punkt",
     point: "punkt",
     privacy_policy: "Datenschutzerklärung",
     terms_of_service: "Nutzungsbedingungen",
     last_popularity:
-      "Es war die arbeitsreichste Zeit des vergangenen Zeitraums.",
+      "Dies ist der Zeitpunkt, an dem in letzter Zeit erhebliche Staus beobachtet wurden.",
     insight_title: "Datenanalyse und Erkenntnisse",
     analysis_title: "Analyse der Stauung in Pizzerien in der Nähe des Pentagon",
     analysis_first:
-      "Am 12. Juli 2025 verzeichneten Pizzerien rund um das Pentagon einen neuen Rekordwert an Bestellungen und Besucherzahlen. Diese Entwicklung lässt sich nicht allein durch typische Mittagszeiten oder Wochenendverhalten erklären. Historisch gesehen traten ähnliche Ausschläge in Verbindung mit geopolitischen Krisen auf.",
+      "Am 17. Juli 2025 verzeichneten Pizzerien in der Umgebung des Pentagons eine auffällige Zunahme der Bestellungen. Dieses starke Ansteigen lässt sich kaum allein durch gewöhnliche Essenszeiten erklären. Vielmehr ereigneten sich an diesem Tag mehrere sicherheitspolitisch bedeutsame Entwicklungen – insbesondere die wachsenden Spannungen zwischen Taiwan und China.",
     analysis_second:
-      "Zeitgleich berichteten die Financial Times und Reuters, dass das US-Verteidigungsministerium Verbündete wie Japan und Australien aufforderte, ihre militärische Rolle im Falle eines Konflikts mit China wegen Taiwan offen zu benennen. Diese Forderung stellt eine bemerkenswerte strategische Eskalation dar und signalisiert intensive militärische Planungen.",
+      "Taiwan führte eine landesweite Luftschutzübung durch, bei der ein chinesischer Raketenangriff simuliert wurde. Sirenen ertönten, der Straßenverkehr wurde zeitweise gestoppt – eine Reaktion auf chinesische Militärmanöver in großem Umfang. Diese Entwicklungen könnten zu erhöhter Alarmbereitschaft und intensiveren Planungen im US-Verteidigungsministerium geführt haben.",
     analysis_third:
-      "Solche Entwicklungen führen häufig zu erhöhtem Personalbedarf, Nachtarbeit und zahlreichen internen Besprechungen. In solchen Situationen steigt der Bedarf an schneller Verpflegung stark an – insbesondere an Pizza, die sich schnell bestellen und teilen lässt. Dies deutet auf eine operative Mobilisierung im Inneren hin, wie sie auch in früheren Krisen beobachtet wurde.",
+      "Gleichzeitig warnten NATO-Kommandeure vor der Notwendigkeit, auf mögliche gleichzeitige Bedrohungen durch Russland und China vorbereitet zu sein. Die Vereinigten Staaten wurden aufgefordert, sowohl in Europa als auch im Indo-Pazifik-Raum ihre Verteidigung zu verstärken. Dies könnte zu einer Erhöhung der Einsatzzeiten und einer verstärkten Nachfrage nach schneller Verpflegung geführt haben.",
     analysis_fourth:
-      "Zusammengefasst lässt sich sagen: Der Pizza-Boom vom 12. Juli ist wahrscheinlich ein indirekter Indikator für globale Spannungen und interne Einsatzbereitschaft der US-Streitkräfte. Der sogenannte 'Pentagon Pizza Index' bietet somit wertvolle Einblicke in verdeckte geopolitische Dynamiken.",
+      "Insgesamt lässt sich sagen, dass der Anstieg der Pizzanachfrage am 17. Juli ein Ausdruck komplexer sicherheitspolitischer Reaktionen war. Der sogenannte 'Pentagon Pizza Index' stellt somit weiterhin einen indirekten, aber aussagekräftigen Indikator für internationale Spannungen dar.",
   },
 };
 

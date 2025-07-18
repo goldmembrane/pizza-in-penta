@@ -24,23 +24,24 @@ const es = {
       "• Un indicador indirecto de cuánto afecta una determinada noticia a los asuntos internacionales.",
     purpose_fourth:
       "• Sentir indirectamente la influencia de eventos o noticias específicas",
-    peak_title: "congestión máxima",
+    peak_title: "Congestión reciente",
     nothing: "sin datos",
     zero: "0punto",
     point: "punto",
     privacy_policy: "Política de Privacidad",
     terms_of_service: "Términos de Uso",
-    last_popularity: "Fue la época de mayor actividad del último período.",
+    last_popularity:
+      "Este es el momento en el que recientemente se ha observado una congestión significativa.",
     insight_title: "Análisis de datos y perspectivas",
     analysis_title: "Análisis de Congestión en Pizzerías Cercanas al Pentágono",
     analysis_first:
-      "El 12 de julio de 2025, las pizzerías cercanas al Pentágono experimentaron una congestión sin precedentes. Este aumento no puede atribuirse simplemente al almuerzo habitual o al comportamiento de fin de semana. Casos similares han coincidido anteriormente con momentos de gran tensión geopolítica o militar.",
+      "El 17 de julio de 2025, se observó un notable aumento en la demanda de pizzas cerca del Pentágono. Este incremento no puede explicarse únicamente por los horarios comunes de almuerzo o cena. En dicha fecha, ocurrieron varios acontecimientos internacionales de gran relevancia, destacándose el incremento de las tensiones militares entre Taiwán y China.",
     analysis_second:
-      "Ese mismo día, Financial Times y Reuters informaron que el Departamento de Defensa de EE.UU. pidió a sus aliados Japón y Australia definir claramente sus roles ante un posible conflicto con China sobre Taiwán. Esta solicitud representa un giro estratégico importante respecto a la tradicional ambigüedad estadounidense.",
+      "Ese mismo día, Taiwán llevó a cabo un simulacro de ataque aéreo a nivel nacional, en respuesta a la demostración de fuerza por parte de la aviación china. Se activaron sirenas y se restringió el tráfico en varias ciudades, replicando condiciones cercanas a un escenario real. Es probable que estas circunstancias hayan motivado un aumento de reuniones estratégicas y simulaciones dentro del Departamento de Defensa de los Estados Unidos.",
     analysis_third:
-      "Ante este contexto, es muy probable que dentro del Pentágono se realizaran reuniones de emergencia, simulacros tácticos y jornadas extendidas. En este tipo de situaciones, la demanda de comida rápida como la pizza tiende a dispararse, reflejando indirectamente la intensidad operativa interna.",
+      "Simultáneamente, comandantes de la OTAN advirtieron sobre la necesidad de estar preparados ante un conflicto en dos frentes: Rusia y China. Esta declaración aumentó la presión sobre las operaciones militares estadounidenses, tanto en Europa como en la región del Indo-Pacífico. En este contexto, la demanda de alimentos rápidos como la pizza pudo haberse incrementado por parte del personal operativo nocturno.",
     analysis_fourth:
-      "Así, el incremento del 12 de julio no debe considerarse una coincidencia. Es una manifestación de la convergencia entre tensiones globales y preparación militar activa. El llamado 'Índice de Pizza del Pentágono' se consolida como un indicador indirecto pero revelador de movimientos estratégicos relevantes.",
+      "En resumen, el aumento observado en la congestión el 17 de julio refleja una reacción indirecta ante una serie de tensiones geopolíticas acumuladas. El llamado “Índice de Pizza del Pentágono” sigue funcionando como un indicador no oficial pero útil para interpretar la actividad estratégica global en tiempo real.",
   },
 };
 

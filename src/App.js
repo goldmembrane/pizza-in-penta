@@ -62,25 +62,8 @@ const App = () => {
 
   const peakCongestionData = () => {
     if (data.length > 0) {
-      const maxPoint = data.reduce((max, item) =>
-        item.point > max.point ? item : max
-      );
-      const lastMaxPoint = sessionStorage.getItem("maxpoint");
-
-      if (lastMaxPoint !== null) {
-        if (maxPoint.point > lastMaxPoint.point) {
-          const newMaxPoint = JSON.stringify(maxPoint);
-          sessionStorage.setItem("maxpoint", newMaxPoint);
-
-          setMaxPoint(maxPoint);
-        } else {
-          setMaxPoint(lastMaxPoint);
-        }
-      } else {
-        setMaxPoint(maxPoint);
-        const newMaxPoint = JSON.stringify(maxPoint);
-        sessionStorage.setItem("maxpoint", newMaxPoint);
-      }
+      const maxPoint = data.filter((item) => item.point >= 10000).slice(-1);
+      setMaxPoint(maxPoint[0]);
     }
   };
 
@@ -146,7 +129,9 @@ const App = () => {
                 </CardTitle>
               </div>
               <CardDescription className="analysis-subtitle">
-                {`📊 ${maxPoint ? maxPoint.date : ""} ${t("analysis_title")}`}
+                {`📊 ${maxPoint !== null ? maxPoint.date : ""} ${t(
+                  "analysis_title"
+                )}`}
               </CardDescription>
             </CardHeader>
             <CardContent>

@@ -25,25 +25,25 @@ const fr = {
       "• Un indicateur indirect de l’impact d’une information particulière sur les affaires internationales.",
     purpose_fourth:
       "• Ressentir indirectement l’influence d’événements ou de nouvelles spécifiques",
-    peak_title: "pointe de congestion",
+    peak_title: "Congestion récente",
     nothing: "aucune donnée",
     zero: "0indiquer",
     point: "indiquer",
     privacy_policy: "Politique de Confidentialité",
     terms_of_service: "Conditions Générales d’Utilisation",
     last_popularity:
-      "C'était la période la plus chargée de la période écoulée.",
+      "C’est à ce moment-là que des embouteillages importants ont récemment été observés.",
     insight_title: "Analyse et aperçu des données",
     analysis_title:
       "Analyse de la Congestion dans les Pizzerias autour du Pentagone",
     analysis_first:
-      "Le 12 juillet 2025, les pizzerias autour du Pentagone ont connu un pic de fréquentation historique. Ce phénomène dépasse les simples hausses liées aux horaires de repas ou aux effets du week-end. De précédents épisodes similaires ont souvent coïncidé avec des périodes de tension géopolitique ou de mobilisation militaire accrue.",
+      "Le 17 juillet 2025, les pizzerias situées autour du Pentagone ont enregistré une hausse significative de leur fréquentation. Cette augmentation ne saurait être attribuée uniquement aux horaires habituels des repas. En réalité, cette date coïncide avec plusieurs événements géopolitiques notables, notamment une intensification des tensions militaires entre Taïwan et la Chine.",
     analysis_second:
-      "Ce même jour, le Financial Times et Reuters ont rapporté que les États-Unis avaient demandé à leurs alliés comme le Japon et l’Australie de clarifier leur position militaire en cas de conflit avec la Chine à propos de Taïwan. Cette demande représente un tournant dans la posture stratégique américaine, marquant la fin de l’ambiguïté stratégique traditionnelle.",
+      "Ce jour-là, Taïwan a mené un exercice national de simulation d’attaque aérienne, en réponse aux manœuvres militaires agressives menées par l’aviation chinoise. Des sirènes d’alerte ont retenti, les villes ont été temporairement fermées, reproduisant un scénario réaliste de crise. Cela a probablement entraîné des réunions de crise et des exercices stratégiques au sein du Département américain de la Défense.",
     analysis_third:
-      "Cette évolution a probablement entraîné une série de réunions, de simulations militaires et d’extensions d’horaires au sein du Pentagone. Dans de telles circonstances, la demande pour des repas rapides comme la pizza augmente fortement, servant d’indicateur indirect de l’intensité de l’activité interne. Ce schéma a déjà été observé dans des périodes de crise, comme lors des tensions Iran-Israël.",
+      "En parallèle, les commandants de l’OTAN ont mis en garde contre le risque d’un conflit sur deux fronts impliquant à la fois la Russie et la Chine. Il a été recommandé aux États-Unis de renforcer leur posture défensive dans les zones européenne et indo-pacifique. Une telle pression opérationnelle a pu accroître les besoins en personnel de nuit ainsi qu’en restauration rapide.",
     analysis_fourth:
-      "En conclusion, le pic du 12 juillet ne doit pas être interprété comme une simple coïncidence. Il illustre la convergence entre des tensions internationales croissantes et une mobilisation opérationnelle réelle. L’'indice pizza du Pentagone' devient ainsi un baromètre indirect mais fiable des dynamiques stratégiques en cours.",
+      "Par conséquent, l’augmentation de la congestion observée le 17 juillet ne relève pas du hasard. Elle traduit une combinaison de facteurs militaires, diplomatiques et logistiques, et confirme que l’'indice pizza du Pentagone' reste un indicateur indirect mais révélateur du climat géopolitique mondial.",
   },
 };
 
