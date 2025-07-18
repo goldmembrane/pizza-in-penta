@@ -25,24 +25,25 @@ const it = {
       "• Un indicatore indiretto di quanto una particolare notizia influisca sugli affari internazionali.",
     purpose_fourth:
       "• Sentire indirettamente l'influenza di eventi o notizie specifici",
-    peak_title: "picco di congestione",
+    peak_title: "Congestione recente",
     nothing: "nessun dato",
     zero: "0punto",
     point: "punto",
     privacy_policy: "Informativa sulla Privacy",
     terms_of_service: "Termini di Servizio",
-    last_popularity: "È stato il periodo più intenso degli ultimi anni.",
+    last_popularity:
+      "Questo è il momento in cui di recente è stata osservata una congestione significativa.",
     insight_title: "Analisi dei dati e approfondimenti",
     analysis_title:
       "Analisi della Congestione nelle Pizzerie vicino al Pentagono",
     analysis_first:
-      "Il 12 luglio 2025, le pizzerie nei pressi del Pentagono hanno registrato un picco record di affluenza. Un simile incremento non può essere spiegato solo con la pausa pranzo o i comportamenti del fine settimana. In passato, situazioni simili si sono verificate in coincidenza con importanti tensioni geopolitiche o attività militari.",
+      "Il 17 luglio 2025 si è registrato un notevole aumento della domanda di pizza nei pressi del Pentagono. Tale incremento non sembra attribuibile solamente agli orari standard dei pasti. Infatti, quella giornata è stata segnata da eventi geopolitici significativi, in particolare dall’inasprirsi delle tensioni militari tra Taiwan e la Cina.",
     analysis_second:
-      "Nello stesso giorno, il Financial Times e Reuters hanno riferito che il Dipartimento della Difesa degli Stati Uniti ha chiesto a Giappone e Australia di chiarire il proprio ruolo in caso di un conflitto con la Cina sulla questione di Taiwan. Una richiesta del genere segna un cambiamento strategico significativo nella politica statunitense.",
+      "Taiwan ha organizzato un’esercitazione nazionale di allarme aereo per simulare un attacco missilistico cinese, a seguito di manovre militari su larga scala da parte dell’aviazione cinese. Le sirene sono state attivate e le città sono state temporaneamente bloccate. Questo scenario ha probabilmente comportato un’intensificazione delle attività strategiche all’interno del Dipartimento della Difesa degli Stati Uniti.",
     analysis_third:
-      "È probabile che il Pentagono abbia reagito intensificando le pianificazioni militari, con riunioni di emergenza, simulazioni e orari prolungati. In questi casi, la domanda di cibo veloce come la pizza aumenta notevolmente, diventando un indicatore indiretto dell’attività interna. Questo schema si è già ripetuto durante crisi come quella tra Iran e Israele.",
+      "In parallelo, i comandanti della NATO hanno dichiarato la necessità di prepararsi ad affrontare una minaccia simultanea da parte di Russia e Cina. Questa posizione ha aumentato la pressione operativa sulle forze armate statunitensi, richiedendo una maggiore prontezza sia in Europa sia nella regione Indo-Pacifica. Di conseguenza, è possibile che sia aumentata anche la domanda di pasti veloci come la pizza.",
     analysis_fourth:
-      "Pertanto, l’aumento della domanda del 12 luglio non è un semplice caso. Rappresenta l’intersezione tra una crescente tensione globale e una preparazione operativa reale. Il cosiddetto 'indice della pizza del Pentagono' si sta affermando come un segnale utile dei movimenti strategici in corso.",
+      "In conclusione, l’aumento della congestione registrato il 17 luglio può essere interpretato come una risposta indiretta alle crescenti tensioni internazionali. L’“Indice della Pizza del Pentagono” continua a offrire una prospettiva alternativa ma significativa sugli sviluppi geopolitici in tempo reale.",
   },
 };
 
