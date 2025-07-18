@@ -12,12 +12,13 @@ const it = {
       "Questo grafico mostra i punti calcolati in base al livello di congestione delle pizzerie vicino al Pentagono.",
     notAccuracy:
       "Si prega di notare che i valori non rappresentano misurazioni esatte.",
-    google: "I punti di congestione si basano sui dati di Google Maps",
+    collect:
+      "I punti di congestione si basano sui dati effettivi delle attività degli utenti.",
     purpose_title: "Scopo del servizio",
     purpose_subtitle:
       "Analisi dell'affollamento nelle pizzerie attorno al Pentagono",
     purpose_description:
-      " Questa dashboard monitora e analizza le tendenze di congestione delle pizzerie intorno al Pentagono sulla base dei dati di Google Maps, calcolando e organizzando i risultati in punti per periodo di tempo. Questo può fungere da indicatore di riferimento indiretto dell'impatto di determinati eventi o notizie sugli affari internazionali.",
+      "Questa dashboard monitora e analizza l'andamento della congestione delle pizzerie intorno al Pentagono sulla base dei dati effettivi sull'attività degli utenti, calcolando e organizzando i risultati in punti per periodo di tempo. Questo può fungere da indicatore di riferimento indiretto dell'impatto di determinati eventi o notizie sugli affari internazionali.",
     purpose_first:
       "• Raccogliere e analizzare i dati giornalieri sull'affollamento",
     purpose_second: "• Visualizzazione dei modelli di affollamento per data",
@@ -25,6 +26,7 @@ const it = {
       "• Un indicatore indiretto di quanto una particolare notizia influisca sugli affari internazionali.",
     purpose_fourth:
       "• Sentire indirettamente l'influenza di eventi o notizie specifici",
+    law_script: "avviso legale",
     peak_title: "Congestione recente",
     nothing: "nessun dato",
     zero: "0punto",
