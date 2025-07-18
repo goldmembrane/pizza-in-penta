@@ -11,12 +11,12 @@ const de = {
       "Dieses Diagramm zeigt Punkte, die basierend auf der Auslastung von Pizzerien in der Nähe des Pentagons berechnet wurden.",
     notAccuracy:
       "Bitte beachten Sie, dass es sich nicht um exakte Werte handelt.",
-    google: "Staupunkte basieren auf Daten von Google Maps",
+    collect: "Staupunkte basieren auf tatsächlichen Benutzeraktivitätsdaten.",
     purpose_title: "Servicezweck",
     purpose_subtitle:
       "Analyse der Menschenansammlungen in Pizzerien rund um das Pentagon",
     purpose_description:
-      " Dieses Dashboard überwacht und analysiert die Stauentwicklung von Pizzerien rund um das Pentagon anhand von Google Maps-Daten. Die Ergebnisse werden nach Zeiträumen berechnet und geordnet. Dies kann als indirekter Referenzindikator für die Auswirkungen bestimmter Ereignisse oder Nachrichten auf die internationale Politik dienen.",
+      "Dieses Dashboard überwacht und analysiert die Stauentwicklung der Pizzerien rund um das Pentagon anhand von Nutzeraktivitätsdaten und berechnet und ordnet die Ergebnisse nach Zeiträumen. Dies kann als indirekter Referenzindikator für die Auswirkungen bestimmter Ereignisse oder Nachrichten auf die internationale Politik dienen.",
     purpose_first:
       "• Sammeln und analysieren Sie täglich Daten zur Menschenmenge",
     purpose_second: "• Visualisierung von Überfüllungsmustern nach Datum",
@@ -24,6 +24,7 @@ const de = {
       "• Ein indirekter Indikator dafür, wie stark eine bestimmte Nachricht die internationalen Angelegenheiten beeinflusst.",
     purpose_fourth:
       "• Spüren Sie indirekt den Einfluss bestimmter Ereignisse oder Nachrichten",
+    law_script: "rechtlicher Hinweis",
     peak_title: "Aktuelle Staus",
     nothing: "keine Daten",
     zero: "0punkt",

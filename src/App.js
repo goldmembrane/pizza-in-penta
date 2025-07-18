@@ -97,7 +97,7 @@ const App = () => {
 
           <div className="data-source">
             <MapPin className="data-source-icon" />
-            <span className="data-source-text">{t("google")}</span>
+            <span className="data-source-text">{t("collect")}</span>
           </div>
         </div>
 
@@ -258,18 +258,11 @@ const App = () => {
           <div className="footer-content">
             <div className="footer-left"></div>
 
-            <div className="footer-center">
-              <div className="footer-info">
-                <p className="footer-info-item">
-                  <span className="footer-info-label">데이터 출처:</span>
-                  <span className="footer-info-value">Google Maps API</span>
-                </p>
-              </div>
-            </div>
+            <div className="footer-center"></div>
 
             <div className="footer-right">
               <div className="footer-links">
-                <h4 className="footer-links-title">법적 고지</h4>
+                <h4 className="footer-links-title">{t("law_script")}</h4>
                 <div className="footer-links-list">
                   {userLang.startsWith("ko") && (
                     <a href="/privacy/privacy.html" className="footer-link">
