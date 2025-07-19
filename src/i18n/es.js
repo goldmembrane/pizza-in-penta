@@ -37,13 +37,13 @@ const es = {
     insight_title: "Análisis de datos y perspectivas",
     analysis_title: "Análisis de Congestión en Pizzerías Cercanas al Pentágono",
     analysis_first:
-      "El 17 de julio de 2025, se observó un notable aumento en la demanda de pizzas cerca del Pentágono. Este incremento no puede explicarse únicamente por los horarios comunes de almuerzo o cena. En dicha fecha, ocurrieron varios acontecimientos internacionales de gran relevancia, destacándose el incremento de las tensiones militares entre Taiwán y China.",
+      "El 18 de julio de 2025, se registró un notable aumento en la congestión de pizzerías cercanas al Pentágono, superando ampliamente el promedio habitual. Este fenómeno no puede explicarse únicamente por factores rutinarios como la hora del almuerzo o la cena. De hecho, ese día coincidieron varios acontecimientos internacionales relevantes, siendo el principal la escalada de tensión militar entre Taiwán y China.",
     analysis_second:
-      "Ese mismo día, Taiwán llevó a cabo un simulacro de ataque aéreo a nivel nacional, en respuesta a la demostración de fuerza por parte de la aviación china. Se activaron sirenas y se restringió el tráfico en varias ciudades, replicando condiciones cercanas a un escenario real. Es probable que estas circunstancias hayan motivado un aumento de reuniones estratégicas y simulaciones dentro del Departamento de Defensa de los Estados Unidos.",
+      "En particular, la vicepresidenta de Taiwán declaró públicamente que su país no busca una confrontación con China y reiteró su compromiso con la paz, aunque reconoció la presión militar constante por parte de Pekín. Al mismo tiempo, Taiwán se encontraba en pleno desarrollo del ejercicio anual Han Kuang, en el que participaron más de 22.000 reservistas y civiles. Estas maniobras incluyeron simulaciones de ataques con misiles, lo que sin duda captó la atención del Departamento de Defensa de los Estados Unidos.",
     analysis_third:
-      "Simultáneamente, comandantes de la OTAN advirtieron sobre la necesidad de estar preparados ante un conflicto en dos frentes: Rusia y China. Esta declaración aumentó la presión sobre las operaciones militares estadounidenses, tanto en Europa como en la región del Indo-Pacífico. En este contexto, la demanda de alimentos rápidos como la pizza pudo haberse incrementado por parte del personal operativo nocturno.",
+      "Por otra parte, informes divulgados ese mismo día indicaron que Estados Unidos estaba acelerando el envío de sistemas de misiles Patriot a Ucrania, en el marco de los esfuerzos de la OTAN para reforzar su defensa aérea. Esta medida implica una reorganización de recursos estratégicos, lo que podría haber intensificado la actividad interna en el Pentágono.",
     analysis_fourth:
-      "En resumen, el aumento observado en la congestión el 17 de julio refleja una reacción indirecta ante una serie de tensiones geopolíticas acumuladas. El llamado “Índice de Pizza del Pentágono” sigue funcionando como un indicador no oficial pero útil para interpretar la actividad estratégica global en tiempo real.",
+      "En resumen, el aumento en la congestión de pizzerías el 18 de julio refleja una confluencia de factores geopolíticos: el refuerzo de la defensa taiwanesa, el respaldo militar a Ucrania y la necesidad de coordinación operativa por parte de Estados Unidos. El llamado “Índice de Pizza del Pentágono” continúa funcionando como un indicador indirecto pero revelador del estado de alerta militar a nivel global.",
   },
 };
 

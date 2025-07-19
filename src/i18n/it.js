@@ -39,13 +39,13 @@ const it = {
     analysis_title:
       "Analisi della Congestione nelle Pizzerie vicino al Pentagono",
     analysis_first:
-      "Il 17 luglio 2025 si è registrato un notevole aumento della domanda di pizza nei pressi del Pentagono. Tale incremento non sembra attribuibile solamente agli orari standard dei pasti. Infatti, quella giornata è stata segnata da eventi geopolitici significativi, in particolare dall’inasprirsi delle tensioni militari tra Taiwan e la Cina.",
+      "Il 18 luglio 2025, la congestione delle pizzerie nei pressi del Pentagono ha superato nettamente la media. Tale trend sembra collegato a molteplici eventi internazionali avvenuti in quella stessa data. In primo luogo, la vicepresidente di Taiwan ha dichiarato pubblicamente che Taiwan non intende provocare una crisi con la Cina e ribadito il suo impegno per la pace, pur riconoscendo l’aumento della pressione militare da parte di Pechino.",
     analysis_second:
-      "Taiwan ha organizzato un’esercitazione nazionale di allarme aereo per simulare un attacco missilistico cinese, a seguito di manovre militari su larga scala da parte dell’aviazione cinese. Le sirene sono state attivate e le città sono state temporaneamente bloccate. Questo scenario ha probabilmente comportato un’intensificazione delle attività strategiche all’interno del Dipartimento della Difesa degli Stati Uniti.",
+      "In secondo luogo, Taiwan stava portando avanti le sue esercitazioni annuali Han Kuang, esercizi militari e civili di grande scala che hanno mobilitato 22.000 riservisti e cittadini, includendo simulazioni realistiche di attacchi missilistici. Questo scenario ha probabilmente intensificato le valutazioni strategiche da parte del Pentagono.",
     analysis_third:
-      "In parallelo, i comandanti della NATO hanno dichiarato la necessità di prepararsi ad affrontare una minaccia simultanea da parte di Russia e Cina. Questa posizione ha aumentato la pressione operativa sulle forze armate statunitensi, richiedendo una maggiore prontezza sia in Europa sia nella regione Indo-Pacifica. Di conseguenza, è possibile che sia aumentata anche la domanda di pasti veloci come la pizza.",
+      "Parallelamente, lo stesso giorno sono emerse notizie secondo cui gli Stati Uniti stavano anticipando l’invio del sistema missilistico Patriot all’Ucraina, come parte di un rafforzamento della difesa aerea sostenuto dalla NATO. Questo cambiamento di allocazione delle risorse militari indica priorità strategiche mutuate.",
     analysis_fourth:
-      "In conclusione, l’aumento della congestione registrato il 17 luglio può essere interpretato come una risposta indiretta alle crescenti tensioni internazionali. L’“Indice della Pizza del Pentagono” continua a offrire una prospettiva alternativa ma significativa sugli sviluppi geopolitici in tempo reale.",
+      "In sintesi, l'aumento della congestione del 18 luglio sembra riflettere la convergenza tra tensioni Cina-Taiwan, esercitazioni difensive su larga scala e supporto militare americano all’Ucraina. L’“Indice della Pizza del Pentagono” si conferma come indicatore utile delle dinamiche operative in atto.",
   },
 };
 
