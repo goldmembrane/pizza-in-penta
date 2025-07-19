@@ -38,13 +38,13 @@ const fr = {
     analysis_title:
       "Analyse de la Congestion dans les Pizzerias autour du Pentagone",
     analysis_first:
-      "Le 17 juillet 2025, les pizzerias situées autour du Pentagone ont enregistré une hausse significative de leur fréquentation. Cette augmentation ne saurait être attribuée uniquement aux horaires habituels des repas. En réalité, cette date coïncide avec plusieurs événements géopolitiques notables, notamment une intensification des tensions militaires entre Taïwan et la Chine.",
+      "Le 18 juillet 2025, la fréquentation accrue des pizzerias autour du Pentagone a dépassé la moyenne. Ce pic semble lié à plusieurs événements internationaux coïncidant ce jour-là. Tout d’abord, la vice-présidente de Taïwan a solennellement affirmé que Taïwan ne souhaitait pas provoquer de confrontation avec la Chine, soulignant son intention de privilégier le dialogue.",
     analysis_second:
-      "Ce jour-là, Taïwan a mené un exercice national de simulation d’attaque aérienne, en réponse aux manœuvres militaires agressives menées par l’aviation chinoise. Des sirènes d’alerte ont retenti, les villes ont été temporairement fermées, reproduisant un scénario réaliste de crise. Cela a probablement entraîné des réunions de crise et des exercices stratégiques au sein du Département américain de la Défense.",
+      "Par ailleurs, Taïwan poursuivait ses manœuvres annuelles « Han Kuang », un exercice militaire et citoyen de grande ampleur impliquant 22 000 réservistes, avec des simulations réalistes de frappes de missiles. Ces initiatives ont sans doute suscité une vigilance accrue au sein du ministère de la Défense américain.",
     analysis_third:
-      "En parallèle, les commandants de l’OTAN ont mis en garde contre le risque d’un conflit sur deux fronts impliquant à la fois la Russie et la Chine. Il a été recommandé aux États-Unis de renforcer leur posture défensive dans les zones européenne et indo-pacifique. Une telle pression opérationnelle a pu accroître les besoins en personnel de nuit ainsi qu’en restauration rapide.",
+      "Dans le même temps, des informations ont révélé que les États-Unis accéléraient l’envoi de systèmes Patriot en Ukraine, renforçant ainsi la défense aérienne dans le cadre de la NATO. Ce déplacement des ressources militaires américaines influençait probablement les priorités stratégiques de Washington.",
     analysis_fourth:
-      "Par conséquent, l’augmentation de la congestion observée le 17 juillet ne relève pas du hasard. Elle traduit une combinaison de facteurs militaires, diplomatiques et logistiques, et confirme que l’'indice pizza du Pentagone' reste un indicateur indirect mais révélateur du climat géopolitique mondial.",
+      "En conclusion, la hausse de la demande en pizza le 18 juillet semble être la manifestation d’une conjonction entre tensions entre Taïwan et la Chine, exercices de défense à grande échelle et accroissement du soutien militaire américain à l’Ukraine. L’“indice pizza du Pentagone” demeure un indicateur pertinent de l’activité défensive interne.",
   },
 };
 

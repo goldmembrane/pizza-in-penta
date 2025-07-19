@@ -36,13 +36,13 @@ const de = {
     insight_title: "Datenanalyse und Erkenntnisse",
     analysis_title: "Analyse der Stauung in Pizzerien in der Nähe des Pentagon",
     analysis_first:
-      "Am 17. Juli 2025 verzeichneten Pizzerien in der Umgebung des Pentagons eine auffällige Zunahme der Bestellungen. Dieses starke Ansteigen lässt sich kaum allein durch gewöhnliche Essenszeiten erklären. Vielmehr ereigneten sich an diesem Tag mehrere sicherheitspolitisch bedeutsame Entwicklungen – insbesondere die wachsenden Spannungen zwischen Taiwan und China.",
+      "Am 18. Juli 2025 lag der Pizza-Andrang rund um das Pentagon deutlich über dem Mittelwert. Dieser Anstieg scheint eng mit mehreren gleichzeitigen internationalen Entwicklungen verbunden. Erstens bekräftigte die taiwanesische Vizepräsidentin öffentlich, dass Taiwan keine Konfrontation mit China anstrebe und weiterhin auf friedliche Absichten setze – trotz anhaltendem militärischem Druck aus Peking.",
     analysis_second:
-      "Taiwan führte eine landesweite Luftschutzübung durch, bei der ein chinesischer Raketenangriff simuliert wurde. Sirenen ertönten, der Straßenverkehr wurde zeitweise gestoppt – eine Reaktion auf chinesische Militärmanöver in großem Umfang. Diese Entwicklungen könnten zu erhöhter Alarmbereitschaft und intensiveren Planungen im US-Verteidigungsministerium geführt haben.",
+      "Zweitens befand sich Taiwan mitten in der umfangreichen Han‑Kuang‑Übung zur militärischen und zivilen Verteidigung. Rund 22.000 Reservisten und Zivilisten führten realistische Raketenabwehr- und Notfall­simulationen durch, was vermutlich auch im Pentagon verstärkte Lagebewertungen zur Folge hatte.",
     analysis_third:
-      "Gleichzeitig warnten NATO-Kommandeure vor der Notwendigkeit, auf mögliche gleichzeitige Bedrohungen durch Russland und China vorbereitet zu sein. Die Vereinigten Staaten wurden aufgefordert, sowohl in Europa als auch im Indo-Pazifik-Raum ihre Verteidigung zu verstärken. Dies könnte zu einer Erhöhung der Einsatzzeiten und einer verstärkten Nachfrage nach schneller Verpflegung geführt haben.",
+      "Zudem wurde berichtet, dass die USA am selben Tag die Lieferung zusätzlicher Patriot‑Luftabwehrraketen an die Ukraine beschleunigten – eine Entscheidung im Rahmen der NATO-gestützten Stärkung der Flugabwehr. Dies deutet auf eine verstärkte Verschiebung der US-Militärressourcen hin.",
     analysis_fourth:
-      "Insgesamt lässt sich sagen, dass der Anstieg der Pizzanachfrage am 17. Juli ein Ausdruck komplexer sicherheitspolitischer Reaktionen war. Der sogenannte 'Pentagon Pizza Index' stellt somit weiterhin einen indirekten, aber aussagekräftigen Indikator für internationale Spannungen dar.",
+      "Zusammengefasst spiegelt der erhöhte Pizzakonsum am 18. Juli eine gleichzeitige Überschneidung von Spannungen zwischen Taiwan und China, großangelegten Verteidigungsübungen und verstärkter US-Hilfe für die Ukraine wider. Der sogenannte „Pentagon-Pizza-Index“ fungiert weiterhin als wirksames Frühwarnsystem für interne Verteidigungsaktivität.",
   },
 };
 

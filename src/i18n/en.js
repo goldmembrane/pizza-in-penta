@@ -34,13 +34,13 @@ const en = {
     insight_title: "Data Analysis and Insights",
     analysis_title: " Analysis of Pizza Shop Congestion Near the Pentagon",
     analysis_first:
-      "On July 17, 2025, the level of congestion at pizza shops near the Pentagon rose significantly. This sharp increase is unlikely to have been caused solely by routine mealtime activity. In fact, several notable geopolitical events occurred that day, particularly the intensifying military tension between Taiwan and China.",
+      "On July 18, 2025, pizza congestion levels near the Pentagon exceeded the average score significantly. This spike seems closely tied to multiple international developments occurring that day. First, Taiwan’s Vice President publicly affirmed that Taiwan did not wish to provoke confrontation with China and emphasized its peaceful intentions—even as Chinese military pressure persisted.",
     analysis_second:
-      "Taiwan conducted a nationwide air raid drill simulating a missile strike by China. Emergency sirens sounded and urban traffic was temporarily restricted in what appeared to be a realistic large-scale preparation. This was closely tied to recent aggressive military maneuvers by Chinese aircraft, which may have prompted increased strategic assessments within the U.S. Department of Defense.",
+      "Secondly, Taiwan was in the midst of its large-scale Han Kuang military and civil defense exercise, which included realistic missile-attack simulations and involved 22,000 reservists and civilians. This exercise likely triggered increased Pentagon attention to regional defense scenarios.",
     analysis_third:
-      "Additionally, NATO commanders issued a warning on the same day regarding the possibility of a dual-front threat involving both Russia and China. The United States was urged to enhance its defense posture in both Europe and the Indo-Pacific, potentially leading to extended operational hours and greater demand for food services among staff.",
+      "Furthermore, reports emerged on that day that the U.S. was accelerating the transfer of Patriot missile systems to Ukraine, indicating NATO-level air defense enhancements. The reallocation of these air defense assets also signals shifting U.S. military priorities.",
     analysis_fourth:
-      "Taken together, the surge in pizza congestion on July 17 does not appear to be coincidental. Rather, it reflects the combined effects of international military readiness, diplomatic positioning, and internal defense coordination. The so-called 'Pentagon Pizza Index' continues to serve as a subtle yet meaningful indicator of real-time geopolitical stress..",
+      "In summary, the rise in pizza shop congestion on July 18 appears to reflect the convergence of rising Taiwan-China tension, ongoing large-scale defense exercises, and heightened U.S. military support for Ukraine. The “Pentagon Pizza Index” continues to serve as an effective barometer for real-time defense posture shifts.",
   },
 };
 
