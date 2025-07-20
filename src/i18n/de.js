@@ -36,13 +36,13 @@ const de = {
     insight_title: "Datenanalyse und Erkenntnisse",
     analysis_title: "Analyse der Stauung in Pizzerien in der Nähe des Pentagon",
     analysis_first:
-      "Am 18. Juli 2025 lag der Pizza-Andrang rund um das Pentagon deutlich über dem Mittelwert. Dieser Anstieg scheint eng mit mehreren gleichzeitigen internationalen Entwicklungen verbunden. Erstens bekräftigte die taiwanesische Vizepräsidentin öffentlich, dass Taiwan keine Konfrontation mit China anstrebe und weiterhin auf friedliche Absichten setze – trotz anhaltendem militärischem Druck aus Peking.",
+      "Am 19. Juli 2025 stieg die Nachfrage nach Pizza rund um das Pentagon deutlich über den Durchschnitt. Diese Zunahme lässt sich kaum allein durch typische Wochenendgewohnheiten erklären und steht offenbar im Zusammenhang mit internationalen sicherheitspolitischen Entwicklungen. Insbesondere die erneuten Kämpfe in der Drusenregion im Süden Syriens werden als wesentlicher Auslöser angesehen.",
     analysis_second:
-      "Zweitens befand sich Taiwan mitten in der umfangreichen Han‑Kuang‑Übung zur militärischen und zivilen Verteidigung. Rund 22.000 Reservisten und Zivilisten führten realistische Raketenabwehr- und Notfall­simulationen durch, was vermutlich auch im Pentagon verstärkte Lagebewertungen zur Folge hatte.",
+      "In der Stadt as-Suwaida eskalierten erneut Gefechte zwischen syrischen Regierungstruppen und drusischen Milizen. Zivile Opfer wurden gemeldet und die Lage vor Ort blieb äußerst angespannt. Die USA verfolgten die Entwicklungen genau, auch in Abstimmung mit regionalen Verbündeten, und könnten kurzfristige Lagebesprechungen im Pentagon durchgeführt haben.",
     analysis_third:
-      "Zudem wurde berichtet, dass die USA am selben Tag die Lieferung zusätzlicher Patriot‑Luftabwehrraketen an die Ukraine beschleunigten – eine Entscheidung im Rahmen der NATO-gestützten Stärkung der Flugabwehr. Dies deutet auf eine verstärkte Verschiebung der US-Militärressourcen hin.",
+      "Zeitgleich griff Israel unter dem Vorwand des Schutzes der Drusen Stellungen im Süden Syriens an. In Gaza wurde ein humanitärer Hilfsstützpunkt bombardiert, wobei zahlreiche Zivilisten ums Leben kamen. Diese parallelen Krisen dürften die Einsatzbereitschaft und Überwachungssysteme des US-Verteidigungsapparats aktiviert haben.",
     analysis_fourth:
-      "Zusammengefasst spiegelt der erhöhte Pizzakonsum am 18. Juli eine gleichzeitige Überschneidung von Spannungen zwischen Taiwan und China, großangelegten Verteidigungsübungen und verstärkter US-Hilfe für die Ukraine wider. Der sogenannte „Pentagon-Pizza-Index“ fungiert weiterhin als wirksames Frühwarnsystem für interne Verteidigungsaktivität.",
+      "Insgesamt zeigt der Anstieg der Pizzabestellungen am 19. Juli eine Reaktion auf die eskalierenden militärischen und humanitären Entwicklungen im Nahen Osten. Der sogenannte „Pentagon Pizza Index“ bleibt ein aufschlussreicher Indikator für innerstaatliche Sicherheitsaktivitäten.",
   },
 };
 

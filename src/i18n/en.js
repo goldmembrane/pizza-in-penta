@@ -34,13 +34,13 @@ const en = {
     insight_title: "Data Analysis and Insights",
     analysis_title: " Analysis of Pizza Shop Congestion Near the Pentagon",
     analysis_first:
-      "On July 18, 2025, pizza congestion levels near the Pentagon exceeded the average score significantly. This spike seems closely tied to multiple international developments occurring that day. First, Taiwan’s Vice President publicly affirmed that Taiwan did not wish to provoke confrontation with China and emphasized its peaceful intentions—even as Chinese military pressure persisted.",
+      "On July 19, 2025, pizza congestion near the Pentagon rose well above the average. This surge is unlikely to have resulted from weekend dining trends alone, and instead appears closely tied to developments in the international security environment. In particular, military unrest in the Druze region of southern Syria was a likely trigger for increased operational focus within the Pentagon.",
     analysis_second:
-      "Secondly, Taiwan was in the midst of its large-scale Han Kuang military and civil defense exercise, which included realistic missile-attack simulations and involved 22,000 reservists and civilians. This exercise likely triggered increased Pentagon attention to regional defense scenarios.",
+      "Reports indicated that clashes had resumed between Syrian government forces and Druze militias in Sweida, leading to civilian casualties and regional instability. The United States, closely monitoring the situation in coordination with its Middle Eastern allies, may have conducted emergency strategic briefings in response to the unfolding events.",
     analysis_third:
-      "Furthermore, reports emerged on that day that the U.S. was accelerating the transfer of Patriot missile systems to Ukraine, indicating NATO-level air defense enhancements. The reallocation of these air defense assets also signals shifting U.S. military priorities.",
+      "Simultaneously, Israel launched airstrikes in southern Syria citing Druze protection, and Gaza experienced another humanitarian disaster when an aid site was hit, killing multiple civilians. These parallel crises likely activated U.S. defense monitoring systems and reshaped regional readiness plans.",
     analysis_fourth:
-      "In summary, the rise in pizza shop congestion on July 18 appears to reflect the convergence of rising Taiwan-China tension, ongoing large-scale defense exercises, and heightened U.S. military support for Ukraine. The “Pentagon Pizza Index” continues to serve as an effective barometer for real-time defense posture shifts.",
+      "In summary, the July 19 spike in pizza congestion can be interpreted as a response to layered military and humanitarian crises across the Middle East. The “Pentagon Pizza Index” once again demonstrates its value as an indirect yet responsive measure of internal defense activity.",
   },
 };
 
