@@ -38,13 +38,13 @@ const fr = {
     analysis_title:
       "Analyse de la Congestion dans les Pizzerias autour du Pentagone",
     analysis_first:
-      "Le 18 juillet 2025, la fréquentation accrue des pizzerias autour du Pentagone a dépassé la moyenne. Ce pic semble lié à plusieurs événements internationaux coïncidant ce jour-là. Tout d’abord, la vice-présidente de Taïwan a solennellement affirmé que Taïwan ne souhaitait pas provoquer de confrontation avec la Chine, soulignant son intention de privilégier le dialogue.",
+      "Le 19 juillet 2025, la fréquentation des pizzerias proches du Pentagone a fortement dépassé la moyenne. Ce phénomène ne peut être attribué uniquement à une demande accrue en fin de semaine, mais semble lié aux événements géopolitiques survenus le même jour, notamment au Moyen-Orient.",
     analysis_second:
-      "Par ailleurs, Taïwan poursuivait ses manœuvres annuelles « Han Kuang », un exercice militaire et citoyen de grande ampleur impliquant 22 000 réservistes, avec des simulations réalistes de frappes de missiles. Ces initiatives ont sans doute suscité une vigilance accrue au sein du ministère de la Défense américain.",
+      "Dans le sud de la Syrie, dans la région druze de Sweida, des affrontements entre l'armée syrienne et les milices locales ont repris, causant plusieurs victimes civiles. Les États-Unis ont suivi la situation de près, en coordination avec leurs alliés régionaux, et ont probablement convoqué des réunions stratégiques urgentes au Pentagone.",
     analysis_third:
-      "Dans le même temps, des informations ont révélé que les États-Unis accéléraient l’envoi de systèmes Patriot en Ukraine, renforçant ainsi la défense aérienne dans le cadre de la NATO. Ce déplacement des ressources militaires américaines influençait probablement les priorités stratégiques de Washington.",
+      "Dans le même temps, Israël a mené des frappes aériennes en Syrie sous prétexte de protéger la population druze, tandis qu’à Gaza, des civils ont été tués lors de l’attaque d’un site d’aide humanitaire. Ces crises simultanées ont probablement déclenché une intensification des dispositifs de veille militaire américains.",
     analysis_fourth:
-      "En conclusion, la hausse de la demande en pizza le 18 juillet semble être la manifestation d’une conjonction entre tensions entre Taïwan et la Chine, exercices de défense à grande échelle et accroissement du soutien militaire américain à l’Ukraine. L’“indice pizza du Pentagone” demeure un indicateur pertinent de l’activité défensive interne.",
+      "En conclusion, la hausse de la demande en pizza observée le 19 juillet peut être interprétée comme le reflet indirect d’une mobilisation face à des crises humanitaires et militaires multiples. L’“indice pizza du Pentagone” confirme son utilité en tant que baromètre indirect mais pertinent.",
   },
 };
 

@@ -39,13 +39,13 @@ const it = {
     analysis_title:
       "Analisi della Congestione nelle Pizzerie vicino al Pentagono",
     analysis_first:
-      "Il 18 luglio 2025, la congestione delle pizzerie nei pressi del Pentagono ha superato nettamente la media. Tale trend sembra collegato a molteplici eventi internazionali avvenuti in quella stessa data. In primo luogo, la vicepresidente di Taiwan ha dichiarato pubblicamente che Taiwan non intende provocare una crisi con la Cina e ribadito il suo impegno per la pace, pur riconoscendo l’aumento della pressione militare da parte di Pechino.",
+      "Il 19 luglio 2025, la congestione delle pizzerie vicino al Pentagono ha superato sensibilmente la media. Questo incremento non sembra imputabile soltanto alla normale domanda del fine settimana, bensì appare collegato a eventi internazionali rilevanti, in particolare nel contesto del Medio Oriente.",
     analysis_second:
-      "In secondo luogo, Taiwan stava portando avanti le sue esercitazioni annuali Han Kuang, esercizi militari e civili di grande scala che hanno mobilitato 22.000 riservisti e cittadini, includendo simulazioni realistiche di attacchi missilistici. Questo scenario ha probabilmente intensificato le valutazioni strategiche da parte del Pentagono.",
+      "Nel sud della Siria, nella regione drusa di Sweida, si sono riaccesi scontri tra l’esercito governativo e le milizie locali, causando vittime civili e tensioni diffuse. Gli Stati Uniti, in coordinamento con gli alleati regionali, avrebbero intensificato le riunioni di emergenza presso il Dipartimento della Difesa.",
     analysis_third:
-      "Parallelamente, lo stesso giorno sono emerse notizie secondo cui gli Stati Uniti stavano anticipando l’invio del sistema missilistico Patriot all’Ucraina, come parte di un rafforzamento della difesa aerea sostenuto dalla NATO. Questo cambiamento di allocazione delle risorse militari indica priorità strategiche mutuate.",
+      "Contemporaneamente, Israele ha effettuato raid aerei in Siria con la motivazione di proteggere la comunità drusa. Nel frattempo, nella Striscia di Gaza, un centro di distribuzione di aiuti è stato colpito, provocando la morte di civili. Questi eventi congiunti potrebbero aver attivato i protocolli operativi americani.",
     analysis_fourth:
-      "In sintesi, l'aumento della congestione del 18 luglio sembra riflettere la convergenza tra tensioni Cina-Taiwan, esercitazioni difensive su larga scala e supporto militare americano all’Ucraina. L’“Indice della Pizza del Pentagono” si conferma come indicatore utile delle dinamiche operative in atto.",
+      "In sintesi, l’impennata nella domanda di pizza del 19 luglio riflette con ogni probabilità una risposta operativa interna a crisi militari e umanitarie simultanee. L’“Indice della Pizza del Pentagono” continua a rivelarsi un indicatore indiretto ma utile della tensione geopolitica.",
   },
 };
 
