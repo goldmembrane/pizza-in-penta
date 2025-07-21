@@ -62,7 +62,7 @@ const App = () => {
 
   const peakCongestionData = () => {
     if (data.length > 0) {
-      const maxPoint = data.filter((item) => item.point >= 10000).slice(-1);
+      const maxPoint = data.filter((item) => item.point >= 10750).slice(-1);
       setMaxPoint(maxPoint[0]);
     }
   };
