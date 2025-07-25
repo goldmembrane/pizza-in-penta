@@ -62,7 +62,7 @@ const App = () => {
 
   const peakCongestionData = () => {
     if (data.length > 0) {
-      const maxPoint = data.filter((item) => item.point >= 10750).slice(-1);
+      const maxPoint = data.filter((item) => item.point >= 10350).slice(-1);
       setMaxPoint(maxPoint[0]);
     }
   };
@@ -119,6 +119,80 @@ const App = () => {
             </CardContent>
           </Card>
 
+          {/* 메인 차트 */}
+          <Card className="chart-card">
+            <CardHeader>
+              <div className="chart-header">
+                <div className="chart-title-section">
+                  <CardTitle className="chart-title">
+                    {t("dateChartTitle")}
+                  </CardTitle>
+                  <CardDescription>{t("dateChartDesc")}</CardDescription>
+                </div>
+                <div className="chart-buttons">
+                  <Button
+                    variant={chartType === "bar" ? "default" : "outline"}
+                    size="sm"
+                    onClick={() => setChartType("bar")}
+                  >
+                    {t("bar")}
+                  </Button>
+                  <Button
+                    variant={chartType === "line" ? "default" : "outline"}
+                    size="sm"
+                    onClick={() => setChartType("line")}
+                  >
+                    {t("line")}
+                  </Button>
+                </div>
+              </div>
+            </CardHeader>
+            <CardContent>
+              <ChartContainer className="chart-container">
+                {chartType === "bar" ? (
+                  <BarChart
+                    data={data}
+                    margin={{ top: 20, right: 30, left: 20, bottom: 5 }}
+                  >
+                    <XAxis dataKey="date" tickLine={false} axisLine={false} />
+                    <YAxis
+                      tickLine={false}
+                      axisLine={false}
+                      domain={[0, 36000]}
+                      ticks={[0]}
+                    />
+                    <Bar dataKey="point" fill="#ea580c" radius={[4, 4, 0, 0]} />
+                  </BarChart>
+                ) : (
+                  <LineChart
+                    data={data}
+                    margin={{ top: 20, right: 30, left: 20, bottom: 5 }}
+                  >
+                    <XAxis dataKey="date" tickLine={false} axisLine={false} />
+                    <YAxis
+                      tickLine={false}
+                      axisLine={false}
+                      domain={[0, 36000]}
+                      ticks={[0]}
+                    />
+                    <Line
+                      type="monotone"
+                      dataKey="point"
+                      stroke="#ea580c"
+                      strokeWidth={3}
+                      dot={{ fill: "#ea580c", strokeWidth: 2, r: 4 }}
+                    />
+                  </LineChart>
+                )}
+              </ChartContainer>
+              <div className="chart-disclaimer">
+                {t("reference")}
+                <br />
+                {t("notAccuracy")}
+              </div>
+            </CardContent>
+          </Card>
+
           {/* 데이터 분석 카드 */}
           <Card className="analysis-card">
             <CardHeader>
@@ -155,80 +229,6 @@ const App = () => {
             </CardContent>
           </Card>
         </div>
-
-        {/* 메인 차트 */}
-        <Card className="chart-card">
-          <CardHeader>
-            <div className="chart-header">
-              <div className="chart-title-section">
-                <CardTitle className="chart-title">
-                  {t("dateChartTitle")}
-                </CardTitle>
-                <CardDescription>{t("dateChartDesc")}</CardDescription>
-              </div>
-              <div className="chart-buttons">
-                <Button
-                  variant={chartType === "bar" ? "default" : "outline"}
-                  size="sm"
-                  onClick={() => setChartType("bar")}
-                >
-                  {t("bar")}
-                </Button>
-                <Button
-                  variant={chartType === "line" ? "default" : "outline"}
-                  size="sm"
-                  onClick={() => setChartType("line")}
-                >
-                  {t("line")}
-                </Button>
-              </div>
-            </div>
-          </CardHeader>
-          <CardContent>
-            <ChartContainer className="chart-container">
-              {chartType === "bar" ? (
-                <BarChart
-                  data={data}
-                  margin={{ top: 20, right: 30, left: 20, bottom: 5 }}
-                >
-                  <XAxis dataKey="date" tickLine={false} axisLine={false} />
-                  <YAxis
-                    tickLine={false}
-                    axisLine={false}
-                    domain={[0, 36000]}
-                    ticks={[0]}
-                  />
-                  <Bar dataKey="point" fill="#ea580c" radius={[4, 4, 0, 0]} />
-                </BarChart>
-              ) : (
-                <LineChart
-                  data={data}
-                  margin={{ top: 20, right: 30, left: 20, bottom: 5 }}
-                >
-                  <XAxis dataKey="date" tickLine={false} axisLine={false} />
-                  <YAxis
-                    tickLine={false}
-                    axisLine={false}
-                    domain={[0, 36000]}
-                    ticks={[0]}
-                  />
-                  <Line
-                    type="monotone"
-                    dataKey="point"
-                    stroke="#ea580c"
-                    strokeWidth={3}
-                    dot={{ fill: "#ea580c", strokeWidth: 2, r: 4 }}
-                  />
-                </LineChart>
-              )}
-            </ChartContainer>
-            <div className="chart-disclaimer">
-              {t("reference")}
-              <br />
-              {t("notAccuracy")}
-            </div>
-          </CardContent>
-        </Card>
 
         {/* 사이트 목적 카드 */}
         <Card className="purpose-card">
