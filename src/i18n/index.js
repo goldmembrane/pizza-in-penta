@@ -18,6 +18,10 @@ i18n
   .init({
     fallbackLng: "en",
     debug: true,
+    detection: {
+      order: ["navigator", "htmlTag"],
+      caches: [],
+    },
     interpolation: {
       escapeValue: false,
     },
