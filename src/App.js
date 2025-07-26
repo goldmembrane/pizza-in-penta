@@ -73,6 +73,49 @@ const App = () => {
     }
   }, [data]);
 
+  useEffect(() => {
+    const insertAd = (key, position, width, height) => {
+      // 모바일이면 광고 삽입하지 않음
+      if (window.innerWidth < 768) return;
+
+      const wrapper = document.createElement("div");
+      wrapper.style.position = "fixed";
+      wrapper.style.top = "100px";
+      wrapper.style.width = `${width}px`;
+      wrapper.style.height = `${height}px`;
+      wrapper.style.zIndex = "9999";
+      wrapper.style[position] = "0"; // 'left' or 'right'
+
+      // 광고 옵션 스크립트
+      const adOptions = document.createElement("script");
+      adOptions.type = "text/javascript";
+      adOptions.innerHTML = `
+      atOptions = {
+        'key': '${key}',
+        'format': 'iframe',
+        'height': ${height},
+        'width': ${width},
+        'params': {}
+      };
+    `;
+
+      // 외부 스크립트
+      const adScript = document.createElement("script");
+      adScript.type = "text/javascript";
+      adScript.src = `https://www.profitabledisplaynetwork.com/${key}/invoke.js`;
+
+      wrapper.appendChild(adOptions);
+      wrapper.appendChild(adScript);
+      document.body.appendChild(wrapper);
+    };
+
+    // 왼쪽: 160x300
+    insertAd(process.env.REACT_APP_LEFT_AD_KEY, "left", 160, 300);
+
+    // 오른쪽: 160x600
+    insertAd(process.env.REACT_APP_RIGHT_AD_KEY, "right", 160, 600);
+  }, []);
+
   if (loading) {
     return (
       <div className="loading-container">
