@@ -108,9 +108,6 @@ const App = () => {
 
     // 위쪽 광고: 160x600 (offsetTop = 0)
     insertAd(process.env.REACT_APP_RIGHT_AD_KEY, 160, 600, 0);
-
-    // 아래쪽 광고: 160x300 (offsetTop = 600 + 간격 20px)
-    insertAd(process.env.REACT_APP_LEFT_AD_KEY, 160, 300, 620);
   }, []);
 
   if (loading) {
