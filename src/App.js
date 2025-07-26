@@ -110,10 +110,10 @@ const App = () => {
     };
 
     // 왼쪽: 160x300
-    insertAd(process.env.REACT_APP_LEFT_AD_KEY, "left", 160, 300);
+    // insertAd(process.env.REACT_APP_LEFT_AD_KEY, "left", 160, 300);
 
     // 오른쪽: 160x600
-    insertAd(process.env.REACT_APP_RIGHT_AD_KEY, "right", 160, 600);
+    insertAd(process.env.REACT_APP_LEFT_AD_KEY, "right", 160, 300);
   }, []);
 
   if (loading) {
