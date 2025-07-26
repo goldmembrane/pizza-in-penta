@@ -74,19 +74,17 @@ const App = () => {
   }, [data]);
 
   useEffect(() => {
-    const insertAd = (key, position, width, height) => {
-      // 모바일이면 광고 삽입하지 않음
-      if (window.innerWidth < 768) return;
+    if (window.innerWidth < 768) return; // 모바일은 광고 제외
 
+    const insertAd = (key, width, height, offsetTop = 0) => {
       const wrapper = document.createElement("div");
       wrapper.style.position = "fixed";
-      wrapper.style.top = "100px";
+      wrapper.style.top = `${100 + offsetTop}px`; // 위쪽 기준 + offset
+      wrapper.style.right = "0px";
       wrapper.style.width = `${width}px`;
       wrapper.style.height = `${height}px`;
       wrapper.style.zIndex = "9999";
-      wrapper.style[position] = "0"; // 'left' or 'right'
 
-      // 광고 옵션 스크립트
       const adOptions = document.createElement("script");
       adOptions.type = "text/javascript";
       adOptions.innerHTML = `
@@ -99,7 +97,6 @@ const App = () => {
       };
     `;
 
-      // 외부 스크립트
       const adScript = document.createElement("script");
       adScript.type = "text/javascript";
       adScript.src = `https://www.profitabledisplaynetwork.com/${key}/invoke.js`;
@@ -109,11 +106,11 @@ const App = () => {
       document.body.appendChild(wrapper);
     };
 
-    // 왼쪽: 160x300
-    // insertAd(process.env.REACT_APP_LEFT_AD_KEY, "left", 160, 300);
+    // 위쪽 광고: 160x600 (offsetTop = 0)
+    insertAd(process.env.REACT_APP_RIGHT_AD_KEY, 160, 600, 0);
 
-    // 오른쪽: 160x600
-    insertAd(process.env.REACT_APP_LEFT_AD_KEY, "right", 160, 300);
+    // 아래쪽 광고: 160x300 (offsetTop = 600 + 간격 20px)
+    insertAd(process.env.REACT_APP_LEFT_AD_KEY, 160, 300, 620);
   }, []);
 
   if (loading) {
