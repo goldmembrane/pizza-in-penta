@@ -34,13 +34,13 @@ const en = {
     insight_title: "Data Analysis and Insights",
     analysis_title: " Analysis of Pizza Shop Congestion Near the Pentagon",
     analysis_first:
-      "On July 19, 2025, pizza congestion near the Pentagon rose well above the average. This surge is unlikely to have resulted from weekend dining trends alone, and instead appears closely tied to developments in the international security environment. In particular, military unrest in the Druze region of southern Syria was a likely trigger for increased operational focus within the Pentagon.",
+      "On July 26, 2025, pizza congestion near the Pentagon rose markedly above typical levels—far more than what weekend dining habits alone would explain. On that day, North Korean leader Kim Jong Un delivered a public declaration affirming victory in “anti‑imperialist, anti‑U.S.” struggle on the anniversary of the Korean War armistice, while simultaneously a fatal incident in Gaza saw dozens of civilians killed while seeking humanitarian aid.",
     analysis_second:
-      "Reports indicated that clashes had resumed between Syrian government forces and Druze militias in Sweida, leading to civilian casualties and regional instability. The United States, closely monitoring the situation in coordination with its Middle Eastern allies, may have conducted emergency strategic briefings in response to the unfolding events.",
+      "These two events likely amplified Pentagon awareness and triggered internal emergency assessments. Kim’s statements elevated tensions on the Korean Peninsula, prompting immediate strategic analysis within the U.S. defense apparatus. Meanwhile, the Gaza aid crisis underscored the growing humanitarian emergency, requiring rapid coordination with regional allies and enhanced operational readiness.",
     analysis_third:
-      "Simultaneously, Israel launched airstrikes in southern Syria citing Druze protection, and Gaza experienced another humanitarian disaster when an aid site was hit, killing multiple civilians. These parallel crises likely activated U.S. defense monitoring systems and reshaped regional readiness plans.",
+      "Moreover, reports of border clashes involving Syria, Cambodia, and Thailand further complicated U.S. global strategic priorities, demanding diversified response planning. This convergence of crises likely fueled operational pressures inside the Pentagon, leading to extended staffing and support activities—coincident with increased pizza orders.",
     analysis_fourth:
-      "In summary, the July 19 spike in pizza congestion can be interpreted as a response to layered military and humanitarian crises across the Middle East. The “Pentagon Pizza Index” once again demonstrates its value as an indirect yet responsive measure of internal defense activity.",
+      "In summary, the spike in pizza congestion on July 26 can be read as a multi-layered signal: North Korean rhetoric, escalating Gaza humanitarian tragedy, and simultaneous regional unrest merged to trigger Pentagon-level readiness. Once again, the “Pentagon Pizza Index” demonstrated its role as a subtle but meaningful proxy for real-time defense posture shifts.",
   },
 };
 
