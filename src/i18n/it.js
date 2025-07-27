@@ -39,13 +39,13 @@ const it = {
     analysis_title:
       "Analisi della Congestione nelle Pizzerie vicino al Pentagono",
     analysis_first:
-      "Il 19 luglio 2025, la congestione delle pizzerie vicino al Pentagono ha superato sensibilmente la media. Questo incremento non sembra imputabile soltanto alla normale domanda del fine settimana, bensì appare collegato a eventi internazionali rilevanti, in particolare nel contesto del Medio Oriente.",
+      "Il 26 luglio 2025, la congestione delle pizzerie nei pressi del Pentagono ha superato nettamente i livelli consueti, ben oltre quanto attribuibile al normale consumo del fine settimana. In quella giornata, il leader nordcoreano Kim Jong Un ha pronunciato un discorso ufficiale in occasione dell’anniversario dell’armistizio della Guerra di Corea, ribadendo la “vittoria anti‑imperialista e anti‑americana”. Nello stesso tempo, un grave incidente umanitario a Gaza ha causato la morte di decine di civili in cerca di aiuti alimentari.",
     analysis_second:
-      "Nel sud della Siria, nella regione drusa di Sweida, si sono riaccesi scontri tra l’esercito governativo e le milizie locali, causando vittime civili e tensioni diffuse. Gli Stati Uniti, in coordinamento con gli alleati regionali, avrebbero intensificato le riunioni di emergenza presso il Dipartimento della Difesa.",
+      "Questi eventi hanno probabilmente attivato una vigilanza interna rafforzata al Pentagono. Le dichiarazioni di Kim hanno riacceso le tensioni nella Penisola coreana, sollecitando analisi strategiche tempestive. Nel frattempo, la crisi a Gaza ha messo in evidenza la necessità di risposte urgenti e coordinazione diplomatica con alleati regionali.",
     analysis_third:
-      "Contemporaneamente, Israele ha effettuato raid aerei in Siria con la motivazione di proteggere la comunità drusa. Nel frattempo, nella Striscia di Gaza, un centro di distribuzione di aiuti è stato colpito, provocando la morte di civili. Questi eventi congiunti potrebbero aver attivato i protocolli operativi americani.",
+      "In aggiunta, scontri alle frontiere tra Siria, Cambogia e Thailandia hanno complicato ulteriormente le priorità strategiche degli Stati Uniti. La simultaneità di tali crisi ha probabilmente accelerato la mobilitazione interna, con un aumento del personale operativo e un incremento della domanda di pasti rapidi.",
     analysis_fourth:
-      "In sintesi, l’impennata nella domanda di pizza del 19 luglio riflette con ogni probabilità una risposta operativa interna a crisi militari e umanitarie simultanee. L’“Indice della Pizza del Pentagono” continua a rivelarsi un indicatore indiretto ma utile della tensione geopolitica.",
+      "In sintesi, l’aumento della congestione il 26 luglio riflette una reazione articolata a una serie di crisi internazionali: la retorica nordcoreana, l’emergenza umanitaria a Gaza e conflitti regionali concomitanti hanno innescato una risposta operativa centralizzata. L’“Indice della Pizza del Pentagono” si conferma ancora una volta come un indicatore indiretto ma significativo della prontezza difensiva interna.",
   },
 };
 
