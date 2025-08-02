@@ -36,13 +36,13 @@ const de = {
     insight_title: "Datenanalyse und Erkenntnisse",
     analysis_title: "Analyse der Stauung in Pizzerien in der Nähe des Pentagon",
     analysis_first:
-      "Am 26. Juli 2025 stieg die Nachfrage nach Pizza rund um das Pentagon deutlich über das normale Maß hinaus – weit mehr, als durch Wochenendessen erklärt werden könnte. An diesem Tag äußerte Nordkoreas Kim Jong Un eine Botschaft zur Erinnerung an das Ende des Korea-Kriegs, in der er den Sieg im „anti‑imperialistischen, anti‑amerikanischen Kampf“ betonte. Zeitgleich kam es im Gazastreifen zu einem tödlichen Zwischenfall, bei dem Dutzende Zivilisten beim Versuch, Hilfsgüter zu erhalten, getötet wurden.",
+      "Am 1. August 2025 stieg die Auslastung in Pizzerien rund um das Pentagon stark an – ein Anzeichen für globale Spannungen statt bloßem Mittagsandrang. An diesem Tag führte Russland einen massiven Luftangriff auf Kiew durch, bei dem zahlreiche Zivilisten ums Leben kamen. Solche Ereignisse führen in der Regel zu sofortigen Krisensitzungen und strategischen Bewertungen im US-Verteidigungsministerium.",
     analysis_second:
-      "Beide Entwicklungen dürften im Pentagon erhöhte Aufmerksamkeit und sofortige Lagebeurteilungen ausgelöst haben. Kims Rhetorik erhöhte die Spannungen auf der koreanischen Halbinsel, was intern zu verstärkter strategischer Analyse führte. Die humanitäre Krise in Gaza wiederum rückte die Dringlichkeit der US-Reaktion in den Fokus und erforderte Abstimmung mit regionalen Partnern.",
+      "Der Angriff auf Kiew war einer der tödlichsten der letzten Jahre und erhöhte das internationale Spannungsniveau erheblich. Die US-Streitkräfte dürften daraufhin intensive Analysen und operative Vorbereitungen eingeleitet haben, um auf mögliche Entwicklungen reagieren zu können.",
     analysis_third:
-      "Hinzu kamen Berichte über Grenzzwischenfälle in Syrien, Kambodscha und Thailand, die die globalen Prioritäten der USA weiter verkomplizierten. Diese Vielzahl paralleler Krisen führte vermutlich zu erhöhter personal- und planungsintensität im Pentagon – was sich indirekt in einem Anstieg der Pizza-Nachfrage äußerte.",
+      "Zeitgleich verhängten die USA hohe Zölle auf Waren aus vielen Ländern, was zu wachsenden globalen Handelskonflikten führte. Diese Entwicklung erforderte wohl strategische Überprüfungen von Allianzen und wirtschaftlichen Reaktionsszenarien.",
     analysis_fourth:
-      "Zusammenfassend lässt sich der Pizzaboom vom 26. Juli als Ausdruck eines komplexen Zusammenspiels aus Kim Jong Uns Ansprache, der Verschärfung der Gaza-Nothilfesituation und regionaler Instabilität interpretieren. Der „Pentagon Pizza Index“ bleibt weiterhin ein relevanter indirekter Indikator realer innerer Verteidigungsaktivität.",
+      "Zusammenfassend lässt sich sagen, dass der Anstieg der Auslastung am 1. August das Ergebnis gleichzeitiger geopolitischer Krisen war. Der sogenannte „Pizza Index“ kann somit als indirekter Indikator für operative Aktivität und strategische Anspannung im Pentagon dienen.",
   },
 };
 
