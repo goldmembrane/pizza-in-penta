@@ -37,13 +37,13 @@ const es = {
     insight_title: "Análisis de datos y perspectivas",
     analysis_title: "Análisis de Congestión en Pizzerías Cercanas al Pentágono",
     analysis_first:
-      "El 26 de julio de 2025, la congestión en las pizzerías cercanas al Pentágono superó notablemente los niveles habituales, mucho más allá de lo que podría explicarse por hábitos culinarios de fin de semana. Ese mismo día, el líder norcoreano Kim Jong Un emitió un mensaje oficial con motivo del aniversario del armisticio de la Guerra de Corea, reafirmando “la victoria antiimperialista antiestadounidense”. Al mismo tiempo, un incidente humanitario en Gaza dejó decenas de civiles fallecidos mientras acusaban esperaban recibir asistencia alimentaria.",
+      "El 1 de agosto de 2025, el aumento significativo de la congestión en las pizzerías cercanas al Pentágono no parece haber sido causado por una simple demanda habitual, sino más bien por la tensión internacional creciente. Ese día, Rusia lanzó un ataque aéreo masivo sobre Kiev que dejó numerosas víctimas civiles. Esta acción probablemente desencadenó reuniones de emergencia y evaluaciones estratégicas dentro del Departamento de Defensa de EE. UU.",
     analysis_second:
-      "Estos eventos parecen haber activado una respuesta inmediata dentro del Pentágono. El discurso de Kim generó nuevas tensiones en la península coreana, requiriendo análisis estratégicos internos urgentes. La tragedia en Gaza, por su parte, intensificó la atención sobre la crisis humanitaria y obligó a coordinar medidas con aliados regionales.",
+      "El ataque a Kiev fue uno de los más mortales en los últimos años, elevando notablemente el nivel de tensión global. Es probable que las agencias militares y de inteligencia estadounidenses intensificaran el análisis de la situación en el terreno y activaran protocolos de respuesta rápida.",
     analysis_third:
-      "Adicionalmente, los enfrentamientos en zonas fronterizas de Siria, Camboya y Tailandia complicaron aún más la agenda geopolítica de Estados Unidos. Esta confluencia de crisis paralelas probablemente elevó el nivel de alerta operativa interno, lo que coincidió con un aumento en pedidos de pizza por parte del personal activo.",
+      "Al mismo tiempo, EE. UU. impuso aranceles elevados a múltiples países, lo que agravó las tensiones comerciales internacionales. Este escenario forzó la revisión de alianzas estratégicas y medidas de represalia económica.",
     analysis_fourth:
-      "En resumen, el aumento de la congestión el 26 de julio puede interpretarse como una señal indirecta de múltiples tensiones internacionales: la retórica norcoreana, la emergencia humanitaria en Gaza y conflictos regionales simultáneos convergieron para activar un estado de preparación en el Pentágono. El “Índice de Pizza del Pentágono” se confirma nuevamente como un indicador relevante y sensible de la actividad interna defensiva.",
+      "En conclusión, el repunte del 1 de agosto refleja una doble presión geopolítica: el conflicto en Europa del Este y las disputas comerciales globales. El “Índice de Pizza” se revela como un indicador sensible del nivel de actividad operativa del Pentágono.",
   },
 };
 

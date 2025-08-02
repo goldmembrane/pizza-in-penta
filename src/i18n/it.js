@@ -39,13 +39,13 @@ const it = {
     analysis_title:
       "Analisi della Congestione nelle Pizzerie vicino al Pentagono",
     analysis_first:
-      "Il 26 luglio 2025, la congestione delle pizzerie nei pressi del Pentagono ha superato nettamente i livelli consueti, ben oltre quanto attribuibile al normale consumo del fine settimana. In quella giornata, il leader nordcoreano Kim Jong Un ha pronunciato un discorso ufficiale in occasione dell’anniversario dell’armistizio della Guerra di Corea, ribadendo la “vittoria anti‑imperialista e anti‑americana”. Nello stesso tempo, un grave incidente umanitario a Gaza ha causato la morte di decine di civili in cerca di aiuti alimentari.",
+      "Il 1° agosto 2025, il netto aumento dell’affollamento nelle pizzerie intorno al Pentagono sembra collegato non tanto alla domanda quotidiana, quanto a una crescente pressione geopolitica. Quel giorno, la Russia ha effettuato un massiccio bombardamento su Kiev, causando numerose vittime civili. Questo ha probabilmente portato a riunioni urgenti e valutazioni strategiche all’interno del Dipartimento della Difesa degli Stati Uniti.",
     analysis_second:
-      "Questi eventi hanno probabilmente attivato una vigilanza interna rafforzata al Pentagono. Le dichiarazioni di Kim hanno riacceso le tensioni nella Penisola coreana, sollecitando analisi strategiche tempestive. Nel frattempo, la crisi a Gaza ha messo in evidenza la necessità di risposte urgenti e coordinazione diplomatica con alleati regionali.",
+      "L’attacco a Kiev è stato uno dei più gravi degli ultimi anni, facendo salire il livello di allerta internazionale. Le forze armate e i servizi di intelligence statunitensi hanno probabilmente aumentato l’analisi e i preparativi operativi.",
     analysis_third:
-      "In aggiunta, scontri alle frontiere tra Siria, Cambogia e Thailandia hanno complicato ulteriormente le priorità strategiche degli Stati Uniti. La simultaneità di tali crisi ha probabilmente accelerato la mobilitazione interna, con un aumento del personale operativo e un incremento della domanda di pasti rapidi.",
+      "Contemporaneamente, gli Stati Uniti hanno imposto alti dazi a numerosi Paesi, aggravando le tensioni commerciali globali. Questa situazione ha richiesto valutazioni strategiche complesse e una risposta rapida da parte delle autorità competenti.",
     analysis_fourth:
-      "In sintesi, l’aumento della congestione il 26 luglio riflette una reazione articolata a una serie di crisi internazionali: la retorica nordcoreana, l’emergenza umanitaria a Gaza e conflitti regionali concomitanti hanno innescato una risposta operativa centralizzata. L’“Indice della Pizza del Pentagono” si conferma ancora una volta come un indicatore indiretto ma significativo della prontezza difensiva interna.",
+      "In conclusione, il picco del 1° agosto riflette una doppia pressione: l’escalation militare e le tensioni economiche globali. L’“Indice Pizza” appare quindi come un indicatore sensibile dell’intensità operativa del Pentagono.",
   },
 };
 
