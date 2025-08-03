@@ -38,13 +38,13 @@ const fr = {
     analysis_title:
       "Analyse de la Congestion dans les Pizzerias autour du Pentagone",
     analysis_first:
-      "Le 1er août 2025, la hausse marquée de la fréquentation des pizzerias proches du Pentagone semble davantage liée à des tensions géopolitiques qu’à un pic de consommation ordinaire. Ce jour-là, la Russie a lancé une attaque aérienne massive sur Kyiv, provoquant de nombreuses pertes civiles. Cet événement a très probablement conduit à des réunions d'urgence et à des réévaluations stratégiques au sein du Département de la Défense américain.",
+      "Le 2 août 2025, la fréquentation des pizzerias autour du Pentagone a de nouveau augmenté, vraisemblablement en réaction aux récentes opérations militaires. L’Ukraine a mené des frappes coordonées de drones longue portée en Russie, touchant des raffineries pétrolières, un aérodrome militaire et une usine produisant de l’électronique de défense. Au moins trois civils ont été tués, et des incendies importants ont éclaté.",
     analysis_second:
-      "Cette frappe aérienne, l’une des plus meurtrières des dernières années, a accru les tensions internationales. Il est probable que les agences militaires et de renseignement des États-Unis aient réagi en intensifiant leurs analyses et en préparant des mesures de riposte.",
+      "Les régions touchées comprenaient Ryazan, Penza, Voronej, Rostov et Samara, avec des dégâts considérables sur les infrastructures stratégiques. Ces événements ont probablement poussé le Département de la Défense américain à renforcer sa surveillance et ses capacités de renseignement.",
     analysis_third:
-      "Parallèlement, les États-Unis ont imposé des droits de douane élevés à plusieurs pays, attisant ainsi les tensions commerciales mondiales. Ces développements ont entraîné des ajustements stratégiques complexes.",
+      "Face à cette escalade, le Pentagone a probablement organisé des réunions stratégiques d’urgence afin de réévaluer son soutien à l’Ukraine ainsi que ses plans de déploiement en Europe de l’Est. La coordination avec l’OTAN et les plans d’urgence ont dû être rapidement revus.",
     analysis_fourth:
-      "En résumé, le pic observé le 1er août peut être interprété comme une conséquence des pressions combinées de conflits militaires et de tensions économiques. L’« Indice Pizza » se confirme comme un indicateur indirect de l’intensité opérationnelle du Pentagone.",
+      "En conclusion, l’augmentation de fréquentation le 2 août apparaît comme le reflet indirect des frappes ukrainiennes profondes et de la réaction interne intense du Pentagone. L’« Indice Pizza » se confirme comme un indicateur sensible de la posture de défense américaine face à l’instabilité mondiale.",
   },
 };
 
