@@ -34,13 +34,13 @@ const en = {
     insight_title: "Data Analysis and Insights",
     analysis_title: " Analysis of Pizza Shop Congestion Near the Pentagon",
     analysis_first:
-      "On August 1, 2025, the sharp rise in congestion at pizza shops near the Pentagon was likely not due to routine lunchtime demand, but rather a reflection of intensified global tensions. On that day, Russia launched a large-scale airstrike on Kyiv, resulting in numerous civilian casualties. Such an incident likely prompted emergency meetings and strategic assessments within the U.S. Department of Defense.",
+      "On August 2, 2025, congestion near the Pentagon surged again, likely reflecting heightened internal activity triggered by military developments. Ukrainian forces executed coordinated long-range drone strikes across Russia, targeting major oil refineries, an airfield, and defense electronics infrastructure. These attacks resulted in at least three civilian casualties and significant fires.",
     analysis_second:
-      "The attack on Kyiv was one of the deadliest in recent years, significantly escalating international tension. It is probable that U.S. military and intelligence agencies began intensive analysis of the battlefield and preparations for rapid response measures.",
+      "Key infrastructure in the Ryazan, Penza, Voronezh, Rostov, and Samara regions was struck, causing widespread disruption. In turn, U.S. defense agencies may have heightened surveillance and intelligence efforts to assess implications for European security.",
     analysis_third:
-      "Simultaneously, the U.S. imposed steep tariffs on numerous countries, heightening trade disputes on a global scale. These developments likely necessitated reviews of strategic partnerships and economic retaliation scenarios, requiring coordinated preparation from military and diplomatic entities.",
+      "With global attention on Ukraine’s retaliatory capability, Pentagon leadership likely convened strategic briefings to re-evaluate alliance support and readiness posture. NATO coordination, contingency planning, and force posture near Eastern Europe probably came under immediate review.",
     analysis_fourth:
-      "In conclusion, the surge in congestion on August 1 can be interpreted as a product of simultaneous pressure from military escalation in Eastern Europe and global economic tension. The “Pizza Index” serves as a subtle yet sensitive indicator of the Pentagon’s operational intensity.",
+      "In conclusion, the spike in pizza congestion on August 2 appears tethered to Ukraine’s deep strikes into Russia and the Pentagon’s ensuing surge in operational response. The “Pizza Index” provides a subtle yet valuable gauge of Pentagon activity amid rapid geopolitical escalation.",
   },
 };
 

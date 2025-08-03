@@ -36,13 +36,13 @@ const de = {
     insight_title: "Datenanalyse und Erkenntnisse",
     analysis_title: "Analyse der Stauung in Pizzerien in der Nähe des Pentagon",
     analysis_first:
-      "Am 1. August 2025 stieg die Auslastung in Pizzerien rund um das Pentagon stark an – ein Anzeichen für globale Spannungen statt bloßem Mittagsandrang. An diesem Tag führte Russland einen massiven Luftangriff auf Kiew durch, bei dem zahlreiche Zivilisten ums Leben kamen. Solche Ereignisse führen in der Regel zu sofortigen Krisensitzungen und strategischen Bewertungen im US-Verteidigungsministerium.",
+      "Am 2. August 2025 stieg die Auslastung bei Pizzerien nahe dem Pentagon erneut an – vermutlich als indirekte Folge intensiver militärischer Ereignisse. Ukrainische Kräfte führten koordinierte Langstreckendroneangriffe auf russische Raffinerien, einen Militärflughafen und wichtige Anlagen der Rüstungsindustrie durch. Mindestens drei Zivilisten kamen ums Leben, Gebäude gerieten in Brand.",
     analysis_second:
-      "Der Angriff auf Kiew war einer der tödlichsten der letzten Jahre und erhöhte das internationale Spannungsniveau erheblich. Die US-Streitkräfte dürften daraufhin intensive Analysen und operative Vorbereitungen eingeleitet haben, um auf mögliche Entwicklungen reagieren zu können.",
+      "Betroffen waren Schlüsselstandorte in den Regionen Rjasan, Penza, Woronesch, Rostow und Samara. Diese Angriffe dürften US-Sicherheitsbehörden zu erhöhter Alarmbereitschaft und verstärkter Informationsüberwachung veranlasst haben.",
     analysis_third:
-      "Zeitgleich verhängten die USA hohe Zölle auf Waren aus vielen Ländern, was zu wachsenden globalen Handelskonflikten führte. Diese Entwicklung erforderte wohl strategische Überprüfungen von Allianzen und wirtschaftlichen Reaktionsszenarien.",
+      "Angesichts der neuen Eskalation hat das Pentagon wahrscheinlich rasch strategische Briefings abgehalten und den Status militärischer Koordination mit NATO-Partnern neu bewertet. Die Bereitschaft im osteuropäischen Raum war wahrscheinlich sofort Thema.",
     analysis_fourth:
-      "Zusammenfassend lässt sich sagen, dass der Anstieg der Auslastung am 1. August das Ergebnis gleichzeitiger geopolitischer Krisen war. Der sogenannte „Pizza Index“ kann somit als indirekter Indikator für operative Aktivität und strategische Anspannung im Pentagon dienen.",
+      "Zusammengefasst kann der Anstieg der Pizzakon­zentration am 2. August als indirekter Ausdruck spiegelnder Pentagon-Reaktion auf die Ukraine-Einschläge und globale Sicherheitsdynamiken verstanden werden.",
   },
 };
 
