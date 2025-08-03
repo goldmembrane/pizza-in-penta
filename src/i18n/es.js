@@ -37,13 +37,13 @@ const es = {
     insight_title: "Análisis de datos y perspectivas",
     analysis_title: "Análisis de Congestión en Pizzerías Cercanas al Pentágono",
     analysis_first:
-      "El 1 de agosto de 2025, el aumento significativo de la congestión en las pizzerías cercanas al Pentágono no parece haber sido causado por una simple demanda habitual, sino más bien por la tensión internacional creciente. Ese día, Rusia lanzó un ataque aéreo masivo sobre Kiev que dejó numerosas víctimas civiles. Esta acción probablemente desencadenó reuniones de emergencia y evaluaciones estratégicas dentro del Departamento de Defensa de EE. UU.",
+      "El 2 de agosto de 2025, la congestión en las pizzerías cercanas al Pentágono volvió a aumentar, reflejando la intensificación de la actividad interna ante eventos militares críticos. Ucrania llevó a cabo varios ataques coordinados con drones a larga distancia contra Rusia, alcanzando refinerías de petróleo, un aeropuerto militar y una fábrica de electrónica militar. Al menos tres civiles murieron, y se reportaron incendios extensos.",
     analysis_second:
-      "El ataque a Kiev fue uno de los más mortales en los últimos años, elevando notablemente el nivel de tensión global. Es probable que las agencias militares y de inteligencia estadounidenses intensificaran el análisis de la situación en el terreno y activaran protocolos de respuesta rápida.",
+      "Las regiones afectadas incluyeron Riazán, Penza, Vorónezh, Rostov y Samarás, con daños importantes en infraestructura energética y militar. Esto probablemente llevó a un aumento de la vigilancia y del análisis de inteligencia por parte del Departamento de Defensa de EE. UU.",
     analysis_third:
-      "Al mismo tiempo, EE. UU. impuso aranceles elevados a múltiples países, lo que agravó las tensiones comerciales internacionales. Este escenario forzó la revisión de alianzas estratégicas y medidas de represalia económica.",
+      "Ante esta escalada, el liderazgo del Pentágono seguramente convocó reuniones estratégicas para reevaluar el respaldo a Ucrania y la postura de defensa en Europa oriental. La coordinación con la OTAN y la revisión de planes contingentes fueron probablemente urgentes.",
     analysis_fourth:
-      "En conclusión, el repunte del 1 de agosto refleja una doble presión geopolítica: el conflicto en Europa del Este y las disputas comerciales globales. El “Índice de Pizza” se revela como un indicador sensible del nivel de actividad operativa del Pentágono.",
+      "En resumen, el repunte del índice pizza el 2 de agosto parece estar vinculado a los ataques profundos de Ucrania en territorio ruso y a la respuesta coordinada del Pentágono. El “Pizza Index” actúa como indicador indirecto del aumento de actividad defensiva en tiempos de tensión geopolítica.",
   },
 };
 
