@@ -34,13 +34,13 @@ const en = {
     insight_title: "Data Analysis and Insights",
     analysis_title: " Analysis of Pizza Shop Congestion Near the Pentagon",
     analysis_first:
-      "On August 2, 2025, congestion near the Pentagon surged again, likely reflecting heightened internal activity triggered by military developments. Ukrainian forces executed coordinated long-range drone strikes across Russia, targeting major oil refineries, an airfield, and defense electronics infrastructure. These attacks resulted in at least three civilian casualties and significant fires.",
+      "On August 3, 2025, congestion at pizza shops near the Pentagon surged beyond peak levels—not due to lunchtime habits, but likely in response to pressing international developments. Ukraine launched drone strikes on Russian infrastructure, triggering a fire at an oil depot near Sochi, while Russia retaliated with missile attacks in Mykolaiv injuring at least seven civilians.",
     analysis_second:
-      "Key infrastructure in the Ryazan, Penza, Voronezh, Rostov, and Samara regions was struck, causing widespread disruption. In turn, U.S. defense agencies may have heightened surveillance and intelligence efforts to assess implications for European security.",
+      "The escalation in violence—spanning Sochi, Voronezh, and Mykolaiv—significantly heightened geopolitical tension. U.S. defense authorities likely escalated surveillance and intelligence efforts, convening rapid-response meetings to assess strategic implications for alliance coordination.",
     analysis_third:
-      "With global attention on Ukraine’s retaliatory capability, Pentagon leadership likely convened strategic briefings to re-evaluate alliance support and readiness posture. NATO coordination, contingency planning, and force posture near Eastern Europe probably came under immediate review.",
+      "Simultaneously, OPEC+ reached a preliminary agreement to boost oil production by 548,000 barrels per day starting September. In the context of ongoing geopolitical strain and potential sanctions on Russian oil buyers, U.S. defense and energy policy planners would have taken close interest in the changing energy landscape.",
     analysis_fourth:
-      "In conclusion, the spike in pizza congestion on August 2 appears tethered to Ukraine’s deep strikes into Russia and the Pentagon’s ensuing surge in operational response. The “Pizza Index” provides a subtle yet valuable gauge of Pentagon activity amid rapid geopolitical escalation.",
+      "In sum, the spike in pizza congestion on August 3 appears directly tied to a combination of Ukraine’s deep strikes into Russia, rapidly evolving energy production decisions, and intensified Pentagon strategic activity. The instance underlines the value of the “Pizza Index” as a discreet indicator of U.S. defense posture amid global volatility.",
   },
 };
 

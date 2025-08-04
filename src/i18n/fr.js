@@ -38,13 +38,13 @@ const fr = {
     analysis_title:
       "Analyse de la Congestion dans les Pizzerias autour du Pentagone",
     analysis_first:
-      "Le 2 août 2025, la fréquentation des pizzerias autour du Pentagone a de nouveau augmenté, vraisemblablement en réaction aux récentes opérations militaires. L’Ukraine a mené des frappes coordonées de drones longue portée en Russie, touchant des raffineries pétrolières, un aérodrome militaire et une usine produisant de l’électronique de défense. Au moins trois civils ont été tués, et des incendies importants ont éclaté.",
+      "Le 3 août 2025, la fréquentation des pizzerias près du Pentagone a atteint un niveau record, conséquence non d’un afflux récréatif mais des dynamiques géopolitiques. L’Ukraine a mené des frappes de drones contre des infrastructures russes, provoquant un incendie dans un dépôt pétrolier près de Sotchi. Parallèlement, une attaque de missile en Ukraine, à Nikolaïev, a fait au moins sept blessés civils.",
     analysis_second:
-      "Les régions touchées comprenaient Ryazan, Penza, Voronej, Rostov et Samara, avec des dégâts considérables sur les infrastructures stratégiques. Ces événements ont probablement poussé le Département de la Défense américain à renforcer sa surveillance et ses capacités de renseignement.",
+      "Ces développements ont considérablement accru les tensions internationales. Les autorités de défense américaines ont probablement intensifié la surveillance et organisé des réunions stratégiques d’urgence pour évaluer les implications de ces attaques.",
     analysis_third:
-      "Face à cette escalade, le Pentagone a probablement organisé des réunions stratégiques d’urgence afin de réévaluer son soutien à l’Ukraine ainsi que ses plans de déploiement en Europe de l’Est. La coordination avec l’OTAN et les plans d’urgence ont dû être rapidement revus.",
+      "Simultanément, l’OPEP+ a adopté un plan d’augmentation de la production de pétrole de 548 000 barils par jour dès septembre prochain. Dans un contexte de tension géopolitique accrue et de menaces de sanctions contre les acheteurs du pétrole russe, les décideurs américains en matière d’énergie et de sécurité se sont montrés particulièrement attentifs.",
     analysis_fourth:
-      "En conclusion, l’augmentation de fréquentation le 2 août apparaît comme le reflet indirect des frappes ukrainiennes profondes et de la réaction interne intense du Pentagone. L’« Indice Pizza » se confirme comme un indicateur sensible de la posture de défense américaine face à l’instabilité mondiale.",
+      "En conclusion, l’augmentation de la fréquentation le 3 août semble liée aux frappes ukrainiennes ciblées en Russie, aux décisions énergétiques imminentes et à la mobilisation accrue du Pentagone. L’'Indice Pizza' ressort ici comme un indicateur indirect mais pertinent de l’activité stratégique américaine en période de crise.",
   },
 };
 

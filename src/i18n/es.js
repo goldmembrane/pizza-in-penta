@@ -37,13 +37,13 @@ const es = {
     insight_title: "Análisis de datos y perspectivas",
     analysis_title: "Análisis de Congestión en Pizzerías Cercanas al Pentágono",
     analysis_first:
-      "El 2 de agosto de 2025, la congestión en las pizzerías cercanas al Pentágono volvió a aumentar, reflejando la intensificación de la actividad interna ante eventos militares críticos. Ucrania llevó a cabo varios ataques coordinados con drones a larga distancia contra Rusia, alcanzando refinerías de petróleo, un aeropuerto militar y una fábrica de electrónica militar. Al menos tres civiles murieron, y se reportaron incendios extensos.",
+      "El 3 de agosto de 2025, la congestión en las pizzerías cercanas al Pentágono alcanzó niveles máximos, no por el consumo habitual, sino como reflejo de acontecimientos internacionales. Ucrania lanzó ataques con drones sobre infraestructura rusa, provocando un incendio en un depósito de petróleo cerca de Sochi. En Mykolaiv, un ataque con misiles rusos causó al menos siete heridos civiles",
     analysis_second:
-      "Las regiones afectadas incluyeron Riazán, Penza, Vorónezh, Rostov y Samarás, con daños importantes en infraestructura energética y militar. Esto probablemente llevó a un aumento de la vigilancia y del análisis de inteligencia por parte del Departamento de Defensa de EE. UU.",
+      "Estos hechos intensificaron notablemente la tensión global. Las autoridades de defensa de EE. UU. probablemente activaron vigilancia intensificada y convocaron reuniones urgentes para valorar implicaciones estratégicas en la alianza.",
     analysis_third:
-      "Ante esta escalada, el liderazgo del Pentágono seguramente convocó reuniones estratégicas para reevaluar el respaldo a Ucrania y la postura de defensa en Europa oriental. La coordinación con la OTAN y la revisión de planes contingentes fueron probablemente urgentes.",
+      "Al mismo tiempo, OPEC+ acordó aumentar la producción de petróleo en 548.000 barriles diarios a partir de septiembre. Con tensiones geopolíticas y posibles sanciones sobre compradores de crudo ruso, la comunidad de defensa y energía de EE. UU. siguió de cerca esta evolución del mercado.",
     analysis_fourth:
-      "En resumen, el repunte del índice pizza el 2 de agosto parece estar vinculado a los ataques profundos de Ucrania en territorio ruso y a la respuesta coordinada del Pentágono. El “Pizza Index” actúa como indicador indirecto del aumento de actividad defensiva en tiempos de tensión geopolítica.",
+      "En resumen, el repunte del índice pizza el 3 de agosto parece vinculado a los ataques ucranianos dentro de Rusia, las decisiones de producción energética y la respuesta coordinada del Pentágono. El “Pizza Index” se consolida como un indicador tácito del nivel operativo estadounidense ante la inestabilidad global.",
   },
 };
 
