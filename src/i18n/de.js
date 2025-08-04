@@ -36,13 +36,13 @@ const de = {
     insight_title: "Datenanalyse und Erkenntnisse",
     analysis_title: "Analyse der Stauung in Pizzerien in der Nähe des Pentagon",
     analysis_first:
-      "Am 2. August 2025 stieg die Auslastung bei Pizzerien nahe dem Pentagon erneut an – vermutlich als indirekte Folge intensiver militärischer Ereignisse. Ukrainische Kräfte führten koordinierte Langstreckendroneangriffe auf russische Raffinerien, einen Militärflughafen und wichtige Anlagen der Rüstungsindustrie durch. Mindestens drei Zivilisten kamen ums Leben, Gebäude gerieten in Brand.",
+      "Am 3. August 2025 erreichte der Andrang in Pizzerien nahe dem Pentagon erneut Höchstwerte – nicht aufgrund gewöhnlicher Mittagsnachfrage, sondern als Reaktion auf internationale Entwicklungen. Die Ukraine führte Drohnenangriffe auf russische Infrastruktur durch, wobei nahe Sotschi ein Öl-Depot in Brand geriet. In Mykolajiw verletzten russische Raketen mindestens sieben Zivilisten.",
     analysis_second:
-      "Betroffen waren Schlüsselstandorte in den Regionen Rjasan, Penza, Woronesch, Rostow und Samara. Diese Angriffe dürften US-Sicherheitsbehörden zu erhöhter Alarmbereitschaft und verstärkter Informationsüberwachung veranlasst haben.",
+      "Diese Eskalation in Sotschi, Woronesch und Mykolajiw erhöhte die globale Spannung erheblich. US-Verteidigungsbehörden reagierten vermutlich mit verstärkter Überwachung und sofortigen Strategiegesprächen zur Bewertung der Lage im transatlantischen Bündnis.",
     analysis_third:
-      "Angesichts der neuen Eskalation hat das Pentagon wahrscheinlich rasch strategische Briefings abgehalten und den Status militärischer Koordination mit NATO-Partnern neu bewertet. Die Bereitschaft im osteuropäischen Raum war wahrscheinlich sofort Thema.",
+      "Gleichzeitig einigte sich die OPEC+ auf eine geplante Ölfördersteigerung von 548.000 Barrel pro Tag ab September. In Anbetracht geopolitischer Spannungen und angedrohter Sanktionen gegen Käufer russischen Öls wurde die neue Produktionsstrategie auch von US-Verteidigungs- und Energieplanern genau beobachtet.",
     analysis_fourth:
-      "Zusammengefasst kann der Anstieg der Pizzakon­zentration am 2. August als indirekter Ausdruck spiegelnder Pentagon-Reaktion auf die Ukraine-Einschläge und globale Sicherheitsdynamiken verstanden werden.",
+      "Zusammengefasst lässt sich der starke Anstieg der Pizzanachfrage am 3. August als Zusammenspiel von ukrainischen Angriffen in russischem Gebiet, energiepolitischen Entscheidungen und erhöhter Aktivität im Pentagon erklären. Der „Pizza Index“ bestätigt sich erneut als diskreter Indikator der Verteidigungsbereitschaft in Krisenzeiten.",
   },
 };
 

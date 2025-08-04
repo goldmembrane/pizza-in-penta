@@ -39,13 +39,13 @@ const it = {
     analysis_title:
       "Analisi della Congestione nelle Pizzerie vicino al Pentagono",
     analysis_first:
-      "Il 2 agosto 2025, le pizzerie nei pressi del Pentagono hanno registrato un picco di congestione, probabilmente legato a eventi militari rilevanti. L’Ucraina ha effettuato attacchi coordinati via drone a lungo raggio contro raffinerie russe, una base aerea militare e impianti elettronici, con almeno tre vittime civili e incendi estesi.",
+      "Il 3 agosto 2025, il livello di affollamento nelle pizzerie intorno al Pentagono ha raggiunto il massimo: non si tratta di un normale picco di consumi, ma di una reazione a eventi geopolitici. L’Ucraina ha condotto attacchi con droni su infrastrutture russe, causando un incendio in un deposito petrolifero vicino a Sochi, mentre un attacco missilistico russo a Mykolaiv ha ferito almeno sette civili.",
     analysis_second:
-      "Le aree colpite includevano Ryazan, Penza, Voronezh, Rostov e Samara, causando danni significativi a infrastrutture strategiche. Si presume che il Dipartimento della Difesa degli Stati Uniti abbia intensificato le attività di sorveglianza e raccolta intelligence.",
+      "Queste azioni hanno intensificato la tensione globale. Le autorità della difesa statunitensi hanno probabilmente potenziato la sorveglianza e indetto briefing strategici urgenti per valutare le implicazioni.",
     analysis_third:
-      "Di fronte a questa escalation, il Pentagono ha probabilmente convocato briefing strategici per rivedere il supporto all’Ucraina e le posture operative in Europa orientale. La collaborazione con la NATO e la pianificazione delle contingenze sono state presumibilmente riviste immediatamente.",
+      "Contemporaneamente, l’OPEC+ ha concordato un aumento della produzione petrolifera di 548.000 barili al giorno a partire da settembre. In un clima di tensione geopolitica e minacce di sanzioni sugli importatori di greggio russo, le istituzioni USA coinvolte nella sicurezza energetica e strategica stanno seguendo con attenzione l’evoluzione del mercato.",
     analysis_fourth:
-      "In sintesi, l’impennata del congestionamento del 2 agosto riflette le offensive ucraine profonde e la pronta reazione interna del Pentagono. Il “Pizza Index” emerge come un indicatore indiretto ma significativo dell’attività difensiva statunitense.",
+      "In sintesi, il picco del congestionamento del 3 agosto appare legato ai raid ucraini profondi in Russia, alle decisioni energetiche imminenti e alla risposta tempestiva del Pentagono. L'“Indice Pizza” si rivela nuovamente un indicatore indiretto ma significativo della postura militare americana in un contesto di crisi.",
   },
 };
 
